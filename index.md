@@ -1,11 +1,11 @@
 ---
-layout: about 
+layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I'm a PhD student in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University, advised by [Rajiv McCoy](https://mccoy-lab.org/).
+
+Before starting my PhD, I graduated from Cornell University, where I did research in the lab of [Scott Emr](https://emr.wicmb.cornell.edu/).
 
 <br/>
 
@@ -21,6 +21,5 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+
+My current most exciting non-research project is recreating all 26 varieties of curry from *Pokémon Sword and Shield* in real life. As of September 2020, I have 20/26 curries completed!
