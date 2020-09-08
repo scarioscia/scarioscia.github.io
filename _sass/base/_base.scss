@@ -38,7 +38,7 @@ li,
 ul,
 p {
   color: $default-shade;
-  font-family: $sans-serif;
+  font-family: $serif-primary;
   line-height: normal;
 }
 
@@ -48,7 +48,7 @@ ul {
 }
 
 a {
-  color: #999;
+  color: $med-blue;
   text-decoration: none;
 }
 

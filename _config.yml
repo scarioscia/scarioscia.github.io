@@ -7,13 +7,14 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Stephanie M Yan
-  desc: PhD Candidate
+  desc: 
   email: syan[at]jhu[dot]edu
   selfie: assets/img/profile.jpeg
 
 # social
 social:
   email: true
+  twitter: smyan__
   behance:
   bitbucket:
   dribbble:
@@ -23,7 +24,7 @@ social:
   google_plus:
   instagram:
   keybase:
-  linkedin:
+  linkedin: stephanie-yan-560805a4
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +32,6 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: smyan__
   vimeo:
   wordpress:
   youtube:
