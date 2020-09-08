@@ -6,10 +6,10 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Stephanie M Yan
-  desc: 
+  name: Stephanie Yan
+  desc:
   email: syan[at]jhu[dot]edu
-  selfie: assets/img/profile.jpeg
+  selfie: assets/img/fb_profile.jpg
 
 # social
 social:
