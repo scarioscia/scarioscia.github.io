@@ -51,12 +51,13 @@ plugins:
 
 # Permalinks
 permalink: /:year-:month-:day/:title
-paginate_path: "/portfolio/page:num/"
+paginate_path: "/service/page:num/"
 paginate: 5
 exclude:
   - "Gemfile"
   - "Gemfile.lock"
   - "*.gem"
   - "LICENSE"
-  - "READE.md"
+  - "README.md"
   - "screenshot.png"
+  - "portfolio"

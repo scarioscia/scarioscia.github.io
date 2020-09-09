@@ -3,6 +3,7 @@ layout: about
 ---
 
 # About
+
 I'm a PhD candidate in the **[Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/)** (CMDB) program at Johns Hopkins University, advised by **[Rajiv McCoy](https://mccoy-lab.org/)**. I study the impacts of large genetic variants, called *structural variants*, on human evolution.
 
 Before starting my PhD, I graduated from Cornell University, where I did research in the lab of **[Scott Emr](https://emr.wicmb.cornell.edu/)**.
@@ -19,7 +20,7 @@ Before starting my PhD, I graduated from Cornell University, where I did researc
 **Yan, S. M.**, McCoy, R. C. (2019). Functional divergence among hominins. *Nature Ecology & Evolution*, *3*: 1507–1508. doi: [10.1038/s41559-019-0995-y](https://doi.org/10.1038/s41559-019-0995-y)
 
 
-# Academic service
+<!-- # Academic service
 
 ## symBIOsis
 
@@ -40,7 +41,7 @@ Some initiatives I've been part of as a BioRep are administering a survey on dep
 
 I'm currently a TA for the CMDB program's Quantitative Biology Lab course (`AS.020.617`), as well as our one-week **[Quantitative Biology Bootcamp](http://bxlab.github.io/cmdb-bootcamp/)** (`AS.020.607`). These courses introduce new PhD students — many of whom have no coding experience — to computational biology.
 
-In the 2019-2020 academic year, I was a teaching assistant for Developmental Genetics Lab (`AS.020.340`), an undergraduate lab course.
+In the 2019-2020 academic year, I was a teaching assistant for Developmental Genetics Lab (`AS.020.340`), an undergraduate lab course. -->
 
 
 # Other
