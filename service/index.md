@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Academic Service
 ---
 
 # Student organizations
@@ -17,6 +18,8 @@ We also run (and often serve as mentors for) the BioBuddies program, which pairs
 The BioReps are liasons between their graduate cohort and the CMDB program directors and administration. They're also involved in running recruitment for prospective graduate students every year.
 
 Some initiatives I've been part of as a BioRep are administering a survey on department climate issues, trying to implement a teaching feedback system for graduate TAs, and organizing department town halls during the COVID-19 pandemic.
+
+<br />
 
 # Teaching
 
