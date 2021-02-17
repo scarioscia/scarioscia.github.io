@@ -8,7 +8,7 @@ layout: about
 
 I'm a PhD candidate in the **[Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/)** (CMDB) program at Johns Hopkins University, advised by **[Rajiv McCoy](https://mccoy-lab.org/)**. I study the impacts of large genetic variants, called *structural variants*, on human evolution.
 
-Before starting my PhD, I graduated from Cornell University, where studied membrane trafficking in yeast in the lab of **[Scott Emr](https://emr.wicmb.cornell.edu/)**.
+Before starting my PhD, I graduated from Cornell University, where I studied membrane trafficking in yeast in the lab of **[Scott Emr](https://emr.wicmb.cornell.edu/)**.
 
 <br />
 
