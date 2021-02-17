@@ -8,11 +8,15 @@ layout: about
 
 I'm a PhD candidate in the **[Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/)** (CMDB) program at Johns Hopkins University, advised by **[Rajiv McCoy](https://mccoy-lab.org/)**. I study the impacts of large genetic variants, called *structural variants*, on human evolution.
 
-Before starting my PhD, I graduated from Cornell University, where I did research in the lab of **[Scott Emr](https://emr.wicmb.cornell.edu/)**.
+Before starting my PhD, I graduated from Cornell University, where studied membrane trafficking in yeast in the lab of **[Scott Emr](https://emr.wicmb.cornell.edu/)**.
 
 <br />
 
 # Publications
+
+### Preprints
+
+**Yan, S. M.**, Sherman, R. M., Taylor, D. J., Nair, D. R., Bortvin, A. N., Schatz, M. C., McCoy, R. C. (2021). Local adaptation and archaic introgression shape global diversity at human structural variant loci. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.26.428314v2)*.
 
 ### Research and review articles
 
@@ -26,4 +30,4 @@ Before starting my PhD, I graduated from Cornell University, where I did researc
 
 # Other
 
-Currently, one of my most exciting non-research projects is recreating all [26 varieties](https://www.serebii.net/swordshield/currydex.shtml) of curry from *Pokémon Sword and Shield* in real life. As of September 2020, I have 20 out of 26 curries completed!
+Currently, one of my most exciting non-research projects is recreating all [26 varieties](https://www.serebii.net/swordshield/currydex.shtml) of curry from *Pokémon Sword and Shield* in real life. As of February 2021, I have 20 out of 26 curries completed!
