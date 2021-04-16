@@ -1,26 +1,26 @@
 # Site settings
-title: Stephanie Yan
+title: Sara Carioscia
 baseurl: ""
-url: "https://stephaniemyan.github.io/"
+url: "https://scarioscia.github.io/"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Stephanie Yan
+  name: Sara Carioscia
   desc:
-  email: syan[at]jhu[dot]edu
-  selfie: assets/img/fb_profile_2.jpg
+  email: saracarioscia[at]jhu[dot]edu
+  selfie: assets/img/profile_pic.jpg
 
 # social
 social:
   email: true
-  twitter: smyan__
+  twitter: saracarioscia
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: stephaniemyan
+  github: scarioscia
   google_plus:
   instagram:
   keybase:
