@@ -7,7 +7,7 @@ title: Academic Service
 
 ## symBIOsis
 
-**[symBIOsis](https://sites.krieger.jhu.edu/symbiosis/)** was founded in 2020 by me and other members of **[MInDS](https://biominds.jhu.edu/)**, a graduate student organization in the Department of Biology.
+**[symBIOsis](https://sites.krieger.jhu.edu/symbiosis/)** was founded in 2020 as a graduate student organization in the Department of Biology.
 
 Among other things, symBIOsis organizes:
 
@@ -23,4 +23,6 @@ We also run the BioBuddies program, which pairs incoming CMDB first years with u
 
 # Teaching
 
-I'm currently a teaching assistant for the Biology Department's undergraduate Developmental Genetics Lab `AS.020.340`). 
+I'm currently a teaching assistant for the Biology Department's undergraduate Developmental Genetics Lab (`AS.020.340`). 
+
+Earlier this year, I worked with a fellow grad student in my lab, Dylan Taylor, to develop a two-part computational biology workshop series on [hidden markov models](https://github.com/scarioscia/hmm_workshop) for [Agara Bio](https://www.agarabio.org/), a community bio lab led by JHU students.</p> 
