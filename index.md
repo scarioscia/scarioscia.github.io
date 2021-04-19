@@ -4,14 +4,13 @@ layout: about
 
 <br />
 
-    <h1 id="about">About</h1>
  
 
 # About
 
 I’m a PhD candidate and NSF Graduate Research Fellow in the **[Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/)** (CMDB) program at Johns Hopkins University, advised by **[Rajiv McCoy](https://mccoy-lab.org/)**. My current research investigates the phenomenon of segregation distortion, whereby inheritance deviates from Mendelian expectations.
 
-I graduated from Georgetown University, where I conducted research in the lab of **[Manus Patten](https://www.pattenlab.com/)**. I then spent two years as a Science Policy Fellow at the **[Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute)** (STPI), a federally-funded research and development center working for Executive Branch agencies.
+I majored in Biology and Classics at Georgetown University, where I conducted research in the lab of **[Manus Patten](https://www.pattenlab.com/)**. I then spent two years as a Science Policy Fellow at the **[Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute)** (STPI), a federally-funded research and development center working for Executive Branch agencies.
 
 
 
