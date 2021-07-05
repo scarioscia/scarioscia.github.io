@@ -13,7 +13,7 @@ I am advised by **[Rajiv McCoy](https://mccoy-lab.org/)**, and my current resear
 
 I majored in Biology and Classics at Georgetown University, where I conducted research with Professor [Manus Patten](https://www.pattenlab.com/). I then spent two years as a Science Policy Fellow at the [Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute) (STPI), working on projects for Executive Branch agencies including the NIH and NASA.
 
-Outside of research, I am an avid cyclist - I am obsessed with my gravel bike, and I compete with the Hopkins team in cyclocross races around the DMV. I also love to geek out about hiking, bikepacking, rock climbing, and the U.S. Postal Service. This summer, I'm trying to learn Italian; open to all advice both for learning the language and for what to do when I run out of my 5 hearts each day on Duolingo. 
+Outside of research, I am an avid cyclist - I am obsessed with my gravel bike, and I compete with the Hopkins team in cyclocross races around the DMV. I also love to geek out about Georgetown Basketball, hiking, rock climbing, and the U.S. Postal Service. This summer, I'm trying to learn Italian; open to all advice both for learning the language and for what to do when I run out of my 5 hearts each day on Duolingo. 
 
 Here's a **[link](https://github.com/scarioscia/scarioscia.github.io/blob/master/CV/Carioscia_CV_052120.pdf)** to my CV. 
 
