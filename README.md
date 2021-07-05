@@ -1,4 +1,4 @@
-This repo was forked from the [AP Jekyll theme](https://github.com/kssim/ap), which was adapted from the [Tale](https://github.com/chesterhow/tale) theme.
+This repo was forked from the [AP Jekyll theme](https://github.com/kssim/ap), which was adapted from the [Tale](https://github.com/chesterhow/tale) theme. 
 
 ## Pages
 
@@ -35,3 +35,6 @@ This repo was forked from the [AP Jekyll theme](https://github.com/kssim/ap), wh
 ## Other
 
 * `_site` - weird HTML pages that auto-update
+
+## Tabs
+To add new tabs, `mkdir tab_topic`, then add a line to `_layouts/base.html` below the existing tab lines with y`tab_topic` as the directory and the words you'd like to click on your site.  
