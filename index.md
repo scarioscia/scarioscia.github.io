@@ -4,7 +4,6 @@ layout: about
 
 <br />
 
- 
 
 # About
 
@@ -16,7 +15,7 @@ I majored in Biology and Classics at Georgetown University, where I conducted re
 
 Outside of research, I am an avid cyclist - I am obsessed with my gravel bike, and I compete with the Hopkins team in cyclocross races around the DMV. I also love to geek out about hiking, bikepacking, rock climbing, and the U.S. Postal Service. This summer, I'm trying to learn Italian; open to all advice both for learning the language and for what to do when I run out of my 5 hearts each day on Duolingo. 
 
-I would love to connect about science, outdoors, or anything - contact me at saracarioscia[at]jhu.edu. Here's a **[link](https://github.com/scarioscia/scarioscia.github.io/blob/master/CV/Carioscia_CV_052120.pdf)** to my CV. 
+Here's a **[link](https://github.com/scarioscia/scarioscia.github.io/blob/master/CV/Carioscia_CV_052120.pdf)** to my CV. 
 
 <br />
 
