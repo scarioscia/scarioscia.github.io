@@ -8,6 +8,8 @@ I was a teaching assistant for the Biology Department's undergraduate Developmen
 
 Earlier this year, I worked with a friend and grad student in my lab, [Dylan Taylor](https://github.com/dtaylo95), to develop a two-part computational biology workshop series on [hidden markov models](https://github.com/scarioscia/hmm_workshop) for [Agara Bio](https://www.agarabio.org/), a community bio lab led by JHU undergraduates.
 
+Dylan and I were recently awarded a **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from Johns Hopkins' Center for Educational Resources. We'll use this support to develop a computational approach for designing CRISPR reagents, which will be implemented in the Fall 2021 sections of Developmental Genetics Lab. 
+
 <br />
 
 # symBIOsis
