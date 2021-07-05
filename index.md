@@ -8,7 +8,7 @@ layout: about
 
 # About
 
-I’m a PhD candidate and NSF Graduate Research Fellow in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University, advised by **[Rajiv McCoy](https://mccoy-lab.org/)**. My current research investigates the phenomenon of transmission distortion, whereby inheritance deviates from Mendelian expectations. Here's a **[link](https://github.com/scarioscia/scarioscia.github.io/blob/master/CV/Carioscia_CV_052120.pdf)** to my CV. 
+I’m a National Science Foundation Graduate Research Fellow and PhD Candidate in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University, advised by **[Rajiv McCoy](https://mccoy-lab.org/)**. My current research investigates the possibility of transmission distortion in humans, whereby inheritance deviates from Mendelian expectations. Here's a **[link](https://github.com/scarioscia/scarioscia.github.io/blob/master/CV/Carioscia_CV_052120.pdf)** to my CV. 
 
 I majored in Biology and Classics at Georgetown University, where I conducted research in the lab of [Manus Patten](https://www.pattenlab.com/). I then spent two years as a Science Policy Fellow at the [Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute) (STPI), working on projects for Executive Branch agencies including the NIH and NASA.
 
