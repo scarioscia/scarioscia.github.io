@@ -17,7 +17,7 @@ Outside of research, I am an avid cyclist - I am obsessed with my gravel bike, a
 
 Here's a **[link](https://github.com/scarioscia/scarioscia.github.io/blob/master/CV/Carioscia_CV_052120.pdf)** to my CV. 
 
-<br />
+
 
 # Publications
 
