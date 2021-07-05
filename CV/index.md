@@ -3,4 +3,4 @@ layout: post
 title: CV
 ---
 
-[View CV](https://github.com/scarioscia/scarioscia.github.io/blob/master/CV/Carioscia_CV_052120.pdf).
+[View CV](https://drive.google.com/uc?id=1flcpu2uECnaaD7WjDHHl38WD-dY6OEBb&export=download).
