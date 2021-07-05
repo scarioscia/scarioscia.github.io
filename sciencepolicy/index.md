@@ -18,7 +18,7 @@ I'll be posting about each of my STPI projects and what I learned over the comin
 
 <br />
 
-While at STPI, I had an absolute blast getting to see how different aspects of the government work, and a lot of fun on the side. At NASA Johnson I got a tour of the Soyuz capsule from an astronaut who had ridden in it, and we watched other astronauts train for a spacewalk in the neutral buoyancy pool. I joined a colleague for her testimony to the National Space Council at Kennedy Space Center (after which I rode in an elevator with Buzz Aldrin - and had absolutely nothing to say to him).
+While at STPI, I had an absolute blast getting to see how different aspects of the government work, and a lot of fun on the side. At NASA Johnson I got a tour of the Soyuz capsule from an astronaut who had ridden in it, and we watched other astronauts train for a spacewalk in the neutral buoyancy pool. I joined a colleague for her testimony to the National Space Council at Kennedy Space Center and then caught an elevator with Buzz Aldrin.
 
 We played hooky from two major space conferences - one in Colorado Springs (where we took a day trip to visit Boom Supersonic and had to catch some red rocks on the way back) and one in Bremen, Germany, when we checked out museums and cafes one morning. I made it to a couple of Air Force Bases (Wright-Patterson in Dayton - home of the best museum of flight - and Kirtland in New Mexico) as part of the Executive Committee working on the Air Force's strategy for science and technology in 2030. My last big trip was out to LA where I flew (and crashed) the flight simulator for NASA's supersonic aircraft demonstrator. My favorite day was at a postal distribution center out in Virginia. 
 
