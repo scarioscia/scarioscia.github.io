@@ -12,9 +12,6 @@ I’m a PhD candidate and NSF Graduate Research Fellow in the **[Cell, Molecular
 
 I majored in Biology and Classics at Georgetown University, where I conducted research in the lab of **[Manus Patten](https://www.pattenlab.com/)**. I then spent two years as a Science Policy Fellow at the **[Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute)** (STPI), a federally-funded research and development center working for Executive Branch agencies.
 
-Please check out my **[CV](https://github.com/scarioscia/scarioscia.github.io/blob/master/CV/Carioscia_CV_052120.pdf)**. 
-
-
 
 <br />
 
