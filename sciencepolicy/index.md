@@ -3,7 +3,7 @@ layout: post
 title: Science Policy
 ---
 
-From 2017 to 2019, I worked as a Science Policy Fellow at the Science and Technology Policy Institute (STPI), a federally-funded research and development center in Washington, DC. STPI receives funding from the NSF to conduct research and projects for the White House Office of Science and Technology Policy (OSTP). STPI also contracts with agencies across the Executive Branch to offer S&T analysis. 
+From 2017 to 2019, I worked as a Science Policy Fellow at the **[Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute)** (STPI), a federally-funded research and development center in Washington, DC. STPI receives funding from the NSF to conduct research and projects for the White House Office of Science and Technology Policy (OSTP). STPI also contracts with agencies across the Executive Branch to offer S&T analysis. 
 
 <br />
 
