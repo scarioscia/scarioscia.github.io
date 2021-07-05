@@ -14,23 +14,14 @@ layout: base
   <div class="content">
     {{ content }}
     </br>
-  </div>
-</div>
-
-<div class="pagination">
-  {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left next">Prev</a>
-  {% endif %}
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right next">Next</a>
-  {% endif %}
-
-  <a href="#" class="top">Top</a>
-</div>
-<div class="social-layer">
+    <div class="social-layer">
       <div class="social-icons">
         <ul>
           {% include icons.html %}
         </ul>
       </div>
     </div>
+  </div>
+</div>
+
+
