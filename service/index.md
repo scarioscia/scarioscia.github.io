@@ -16,7 +16,7 @@ Dylan and I were recently awarded a **[Technology Fellowship](https://cer.jhu.ed
 
 **[symBIOsis](https://sites.krieger.jhu.edu/symbiosis/)** was founded in 2020 as a graduate student organization in the Department of Biology.
 
-Among other things, our 5-person symBIOsis board organizes:
+A few things our 5-person board organizes:
 
 * Practice rotation talks for first years
 * Mock qualifying exams for second years
@@ -24,7 +24,7 @@ Among other things, our 5-person symBIOsis board organizes:
 * Resources for grad school (Baltimore housing guide, fellowship examples)
 * Social events (trivia nights, movie screenings)
 
-We also run the BioBuddies program, which pairs incoming CMDB first years with upper-year mentors. I had my first BioBuddy this year, and sharing our grad experiences made even a bizarre year really wonderful (I can't believe I met her in-person for the first time last week!). 
+We also run the BioBuddies program, which pairs incoming CMDB first years with upper-year mentors. I had my first BioBuddy this year, and sharing our grad experiences made even a bizarre year really wonderful (I can't believe I met her in-person for the first time in late June!). 
 
 
 
