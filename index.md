@@ -8,7 +8,9 @@ layout: about
 
 # About
 
-I’m a National Science Foundation Graduate Research Fellow and PhD Candidate in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University. I am advised by **[Rajiv McCoy](https://mccoy-lab.org/)**, and our lab broadly looks at evolution and genomics in humans. My current research investigates the possibility of transmission distortion in humans, whereby inheritance deviates from Mendelian expectations. 
+I’m a National Science Foundation Graduate Research Fellow and PhD Candidate in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University. 
+
+I am advised by **[Rajiv McCoy](https://mccoy-lab.org/)**, and our lab broadly looks at evolution and genomics in humans. My current research investigates the possibility of transmission distortion in humans, whereby inheritance deviates from Mendelian expectations.
 
 I majored in Biology and Classics at Georgetown University, where I conducted research with Professor [Manus Patten](https://www.pattenlab.com/). I then spent two years as a Science Policy Fellow at the [Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute) (STPI), working on projects for Executive Branch agencies including the NIH and NASA.
 
