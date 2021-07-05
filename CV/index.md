@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: post
 title: CV
 ---
 
