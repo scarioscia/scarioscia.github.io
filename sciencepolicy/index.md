@@ -7,7 +7,7 @@ From 2017 to 2019, I worked as a Science Policy Fellow at the **[Science and Tec
 
 <br />
 
-I'll be posting information about each of my STPI projects and what I learned over the coming months. Each of these projects generally included research and literature review, interviews, and some project-specific analyses, followed by briefings and formal publications. But for now, a brief run-through of some of my work: 
+I'll be posting about each of my STPI projects and what I learned over the coming months; these projects generally included research and literature review, interviews, and some project-specific analyses, followed by briefings and formal publications. But for now, a brief run-through of some of my work: 
 - A **[study](https://www.ida.org/-/media/feature/publications/c/co/commercial-development-of-civilian-supersonic-aircraft/d-10845.ashx)** of the technical challenges, existing policies and regulations, and industry efforts for developing supersonic aircraft for commercial use
 - Work supporting the White House Initiative on the "Bioeconomy", including a case study of ownership, data sharing, and privacy issues regarding personal genomic data
 - Reviews of U.S. Government policy on life sciences dual use research of concern (DURC) and of Federally-funded infectious disease '-omics' databases
