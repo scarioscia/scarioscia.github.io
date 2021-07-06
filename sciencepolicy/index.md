@@ -12,7 +12,7 @@ I'll be posting about each of my STPI projects and what I learned over the comin
 - Work supporting the White House Initiative on the "Bioeconomy", including a case study of ownership, data sharing, and privacy issues regarding personal genomic data
 - Reviews of U.S. Government policy on life sciences dual use research of concern (DURC) and of Federally-funded infectious disease '-omics' databases
 - A congressionally mandated **[evaluation](https://www.ida.org/-/media/feature/publications/e/ev/evaluation-of-a-human-mission-to-mars-by-2033/d-10510.ashx)** of NASA's roadmap for a human mission to Mars by 2033 
-- An examination of assessment capabilities in branches across the Federal government, including case studies of offices within the Department of Defense, Department of Labor, National Institute of Standards and Technology (NIST), National Science Foundation (NSF), National Institutes of Health (NIH), and USAID
+- An examination of assessment capabilities across the Federal government, including case studies of evaluation in offices within the Department of Defense, Department of Labor, National Institute of Standards and Technology (NIST), National Science Foundation (NSF), National Institutes of Health (NIH), and USAID
 - Early research on trends in the on-orbit servicing, assembly, and manufacturing of space technologies, including a White House-convened **[summit](https://www.ida.org/-/media/feature/publications/r/ro/roundtable-proceedings-ways-forward-for-on-orbit-servicing/d-10445.ashx)** 
 - A review of laws and regulations governing exports of space technologies and how they are implemented (e.g., International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR)) 
 
