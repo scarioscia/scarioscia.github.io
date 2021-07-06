@@ -11,7 +11,7 @@ My current research investigates the possibility of transmission distortion in h
 
 I majored in Biology and Classics at Georgetown University, where I conducted research with [Manus Patten](https://www.pattenlab.com/). I then spent two years as a Science Policy Fellow at the [Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute) (STPI), working on projects for Executive Branch agencies including the NIH and NASA.
 
-Outside of research, I am an avid cyclist, and I compete with the Hopkins cycling. I also love Georgetown Basketball, hiking, and rock climbing. This summer, I'm trying to learn Italian. 
+Outside of research, I am an avid cyclist, and I compete with the Hopkins cycling team. I also love Georgetown Basketball, hiking, and rock climbing. This summer, I'm trying to learn Italian. 
 
 Here's a **[link](https://drive.google.com/uc?id=16hbYz5aqu01pGtOWNHOPhr78Nm9Yef67&export=download)** to my CV. 
 
