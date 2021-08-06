@@ -5,7 +5,7 @@ layout: about
 
 # About
 
-I’m a National Science Foundation Graduate Research Fellow and PhD Candidate in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University. 
+I’m a [National Science Foundation Graduate Research Fellow](https://nsfgrfp.org/) and PhD Candidate in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University. 
 
 My current research investigates the possibility of transmission distortion in humans, whereby inheritance deviates from Mendelian expectations. I am advised by **[Rajiv McCoy](https://mccoy-lab.org/)** and am broadly interested in human genomics and evolution. 
 
