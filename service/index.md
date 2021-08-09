@@ -4,11 +4,11 @@ title: Academic Service
 ---
 # Teaching
 
-I was a teaching assistant for the Biology Department's undergraduate Developmental Genetics Lab (`AS.020.340`) in Fall 2020 and Spring 2021. I co-taught an asynchronous section with my friend (who is also a grad student in my lab) [Dylan Taylor](https://dtaylo95.github.io/). 
+I was a teaching assistant for the Biology Department's undergraduate Developmental Genetics Lab (`AS.020.340`) in Fall 2020 and Spring 2021. 
 
 I was awarded the 2020-2021 Victor G. Corces Teaching Award from the Department of Biology for my work in this course. I was also a 2021 finalist for the Excellence in Teaching Award in the Krieger School of Arts and Sciences. 
 
-Dylan and I were recently awarded a **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources. We'll use this support to develop a computational approach for designing CRISPR reagents, which will be implemented in the Fall 2021 sections of Developmental Genetics Lab. 
+I was recently awarded a **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources, along with my friend (who is also a grad student in my lab) [Dylan Taylor](https://dtaylo95.github.io/). We'll use this support to develop a computational approach for designing CRISPR reagents, which will be implemented in the Fall 2021 sections of Developmental Genetics Lab. 
 
 Earlier this year, we created and taught a two-part computational biology workshop series on [hidden markov models](https://github.com/scarioscia/hmm_workshop) for [Agara Bio](https://www.agarabio.org/), a community bio lab led by JHU undergraduates.
 
