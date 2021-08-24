@@ -14,11 +14,6 @@ Teaching has been a priority for me since I became a tutor in the Writing Center
 
 <br />
 
-# Agara Bio 
-Earlier this year, Dylan and I created and taught a two-part computational biology workshop series on [hidden markov models](https://github.com/scarioscia/hmm_workshop) for [Agara Bio](https://www.agarabio.org/), a community bio lab led by JHU undergraduates.
-
-<br />
-
 # symBIOsis
 
 **[symBIOsis](https://sites.krieger.jhu.edu/symbiosis/)** was founded in 2020 as a graduate student organization in the Department of Biology.
@@ -33,5 +28,8 @@ A few things our 5-person board organizes:
 
 We also run the BioBuddies program, which pairs incoming CMDB first years with upper-year mentors. I had my first BioBuddy last year, and sharing our grad experiences made even a bizarre year really wonderful. 
 
+<br />
 
+# Agara Bio 
+Earlier this year, Dylan and I created and taught a two-part computational biology workshop series on [hidden markov models](https://github.com/scarioscia/hmm_workshop) for [Agara Bio](https://www.agarabio.org/), a community bio lab led by JHU undergraduates.
 
