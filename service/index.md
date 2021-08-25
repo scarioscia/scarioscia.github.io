@@ -4,11 +4,11 @@ title: Academic Service
 ---
 # Teaching
 
-This fall I am a teaching assistant for the Quantitative Biology (`AS.020.617`) course offered to graduate students in my program. 
+This fall I am a teaching assistant for the Quantitative Biology (`AS.020.617`) course offered to graduate students in my program. Students develop their own implementations of widely-used computational biology tools (primarily using Python and Bash), with projects ranging from genome assembly to sequence alignment to genome-wide association studies (GWAS).
 
 I was recently awarded a **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources, along with my friend (who is also a grad student in my lab) [Dylan Taylor](https://dtaylo95.github.io/). We'll use this support to develop a computational approach for designing CRISPR reagents, which will be implemented in the Fall 2021 sections of Developmental Genetics Lab. 
 
-In Fall 2020 and Spring 2021, I was a teaching assistant for the Biology Department's undergraduate Developmental Genetics Lab (`AS.020.340`). I was awarded the 2020-2021 Victor G. Corces Teaching Award from the Department of Biology for my work in this course. I was also a 2021 finalist for the Excellence in Teaching Award in the Krieger School of Arts and Sciences. I then served as a facilitator for the annual orientation for new teaching assistants for Fall 2021.
+In Fall 2020 and Spring 2021, I was a teaching assistant for the Biology Department's undergraduate Developmental Genetics Lab (`AS.020.340`). I was awarded the 2020-2021 Victor G. Corces Teaching Award from the Department of Biology for my work in this course. I was also a 2021 finalist for the Excellence in Teaching Award in the Krieger School of Arts and Sciences. 
 
 Teaching has been a priority for me since I became a tutor in the Writing Center as an undergraduate at Georgetown University. We explored approaches to pedagogy and assessment, and I became intrigued by the opportunity to connect with others through teaching. I have furthered my training at Johns Hopkins through workshops offered by the Center for the Integration of Research, Teaching, and Learning CIRTL) and the JHU Center for Educational Resources.
 
