@@ -25,7 +25,7 @@ Excellence in Teaching Awards, Johns Hopkins School of Arts and Sciences (2021 -
 - I was one of five graduate students recognized as Finalists for this award, based on nominations from the students I taught in 2020-2021 as well as input from peers and faculty in the Biology Department. 
 
 Secure World Foundation Young Professionals Scholarship (2018 - $1,500)
-- One of __ winners (aged 18-35) for best paper presented at the 2018 International Astronautics Congress (IAC) in Bremen, Germany. 
+- One of 11 [winners](https://swfound.org/news/all-news/2018/08/swf-2018-iac-young-professionals-scholarship-recipients-announced) (aged 18-35) awarded to present at the 2018 International Astronautics Congress (IAC) in Bremen, Germany. This work was based on our [report](https://www.ida.org/research-and-publications/publications/all/a/as/assessment-of-the-utility-of-a-government-strategic-investment-fund-for-space) on government strategic investment funds at the Science and Technology Policy Institute, and led to a [journal article](doi.org/10.1089/space.2019.0006) in government investment strategies for space. 
 
 
 
