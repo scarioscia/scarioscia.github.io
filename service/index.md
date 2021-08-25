@@ -4,7 +4,7 @@ title: Academic Service
 ---
 # Teaching
 
-This fall I am a teaching assistant for the Quantitative Biology course offered to graduate students in my program. 
+This fall I am a teaching assistant for the Quantitative Biology (`AS.020.617`) course offered to graduate students in my program. 
 
 I was recently awarded a **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources, along with my friend (who is also a grad student in my lab) [Dylan Taylor](https://dtaylo95.github.io/). We'll use this support to develop a computational approach for designing CRISPR reagents, which will be implemented in the Fall 2021 sections of Developmental Genetics Lab. 
 
