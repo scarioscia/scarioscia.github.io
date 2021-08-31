@@ -10,7 +10,7 @@ I was recently awarded a **[Technology Fellowship](https://cer.jhu.edu/techfello
 
 In Fall 2020 and Spring 2021, I was a Teaching Assistant for the Biology Department's undergraduate Developmental Genetics Lab (`AS.020.340`). I was awarded the 2020-2021 Victor G. Corces Teaching Award from the Department of Biology for my work in this course. I was also a 2021 finalist for the Excellence in Teaching Award in the Krieger School of Arts and Sciences. 
 
-Teaching has been a priority for me since I became a Tutor in the Writing Center as an undergraduate at Georgetown University. We explored approaches to pedagogy and assessment, and I became intrigued by the opportunity to connect with others through teaching. I have furthered my training at Johns Hopkins through workshops offered by the Center for the Integration of Research, Teaching, and Learning (CIRTL) and the JHU Center for Educational Resources.
+Teaching has been a priority for me since I became a Tutor in the Writing Center as an undergraduate. We explored approaches to pedagogy and assessment, and I became intrigued by the opportunity to connect with others through teaching. I have furthered my training at Johns Hopkins through workshops offered by the Center for the Integration of Research, Teaching, and Learning (CIRTL) and the JHU Center for Educational Resources.
 
 <br />
 
