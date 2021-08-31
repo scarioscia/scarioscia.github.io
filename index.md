@@ -12,7 +12,7 @@ I majored in Biology and Classics at Georgetown University, where I conducted re
 
 Outside of research, I am an avid cyclist; I compete with the Hopkins cycling team in the fall cyclocross season, and I mountain bike whenever I can. I also love Georgetown Basketball, hiking, and rock climbing. I took the Graduate Italian Reading and Translation course through Hopkins in summer 2021 and hope to take further coursework this year. This fall I'm taking a bootcamp in Java. 
 
-Here's a **[link](https://drive.google.com/uc?id=16hbYz5aqu01pGtOWNHOPhr78Nm9Yef67&export=download)** to my CV. 
+Here's a **[link](https://drive.google.com/file/d/1dJBdy-DHoOJAt-lqxo8-ZVI1snodnSis&export=download)** to my CV. 
 
 
 # Publications
