@@ -18,7 +18,7 @@ Here's a **[link]( https://drive.google.com/uc?id=1qvgktSznt_BDVa_mrGRc9hyI9-hgR
 # Publications
 
 ### Preprint
-**Cariocsia, S.A.**,* Weaver, K.J.,*, Bortvin, A.N., Ariad, D., Bell, A.D., McCoy, R.C. Strict adherence to Mendel's First Law across a large sample of human sperm genomes. *bioRxiv*, doi: [doi.org/10.1101/2021.11.19.469261](doi.org/10.1101/2021.11.19.469261) * *equal contribution* 
+**Cariocsia, S.A.**,\* Weaver, K.J.,\* Bortvin, A.N., Ariad, D., Bell, A.D., McCoy, R.C. Strict adherence to Mendel's First Law across a large sample of human sperm genomes. *bioRxiv*, doi: [doi.org/10.1101/2021.11.19.469261](doi.org/10.1101/2021.11.19.469261) * *equal contribution* 
 
 ### Research Articles
 
