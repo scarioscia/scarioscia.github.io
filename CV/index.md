@@ -3,4 +3,4 @@ layout: post
 title: CV
 ---
 
-[Download CV](https://drive.google.com/uc?id=1dJBdy-DHoOJAt-lqxo8-ZVI1snodnSis&export=download)
+[Download CV](https://drive.google.com/uc?id=1qvgktSznt_BDVa_mrGRc9hyI9-hgRWEG&export=download)
