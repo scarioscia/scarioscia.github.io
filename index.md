@@ -12,7 +12,7 @@ I majored in Biology and Classics at Georgetown University, where I conducted re
 
 Outside of research, I am an avid cyclist; I compete with the Hopkins cycling team in the fall cyclocross season, and I mountain bike whenever I can. I also love Georgetown Basketball, hiking, and rock climbing. 
 
-Here's a **[link]( https://drive.google.com/uc?id=1qvgktSznt_BDVa_mrGRc9hyI9-hgRWEG&export=download)** to my CV. 
+Here's a **[link](https://drive.google.com/uc?id=13JHQlD7srAPWLRVQsEsc-vD4AsJTFJ_w&export=download)** to my CV. 
 
 
 # Publications
