@@ -4,7 +4,7 @@ title: Academic Service
 ---
 # Teaching
 
-Teaching has been a priority for me since I became a Tutor in the Writing Center as an undergraduate at Georgetown University. We explored approaches to pedagogy and assessment, and I was excited by the chance to connect with others through teaching. I have furthered my training at Johns Hopkins through workshops offered by the Center for the Integration of Research, Teaching, and Learning [(CIRTL)](https://www.cirtl.net/) and the JHU Center for Educational Resources [(CER])(https://cer.jhu.edu/).
+Teaching has been a priority for me since I became a Tutor in the Writing Center as an undergraduate at Georgetown University. We explored approaches to pedagogy and assessment, and I was excited by the chance to connect with others through teaching. I have furthered my training at Johns Hopkins through workshops offered by the Center for the Integration of Research, Teaching, and Learning [(CIRTL)](https://www.cirtl.net/) and the JHU Center for Educational Resources [(CER)](https://cer.jhu.edu/).
 
 ### Teaching Assistant 
 
