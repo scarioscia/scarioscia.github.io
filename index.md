@@ -6,13 +6,13 @@ layout: about
 
 I’m a [National Science Foundation Graduate Research Fellow](https://nsfgrfp.org/) and PhD Candidate in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University. 
 
-My current research investigates deviations from expectations in human inheritance. I am advised by [Rajiv McCoy](https://mccoy-lab.org/) and am broadly interested in human genomics and evolution. 
+My current research investigates bias, dispersion, and error in human development. I am advised by [Rajiv McCoy](https://mccoy-lab.org/) and am broadly interested in human genomics and evolution. 
 
 I majored in Biology and Classics at Georgetown University, where I conducted research with [Manus Patten](https://www.pattenlab.com/). I then spent two years as a Science Policy Fellow at the [Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute) (STPI), working on projects for Executive Branch agencies including the NIH and NASA.
 
-Outside of research, I am an avid cyclist; I compete with the Hopkins cycling team in the fall cyclocross season, and I mountain bike whenever I can. I also love Georgetown Basketball, hiking, and rock climbing. 
+Outside of research, I am an avid cyclist; I compete with the Hopkins cycling team in the fall cyclocross season, and I mountain bike whenever I can. I'm a Board Member for the **[Friends of the Mount Vernon Trail](https://mountvernontrail.org/)**, which works with the National Park Service to maintain and improve the trail. I'm a new member of the Board for the Rosslyn Business Improvement District (BID) in Arlington, VA, where I intend to contribute to projects supporting transportation and outdoor spaces in the region. 
 
-Here's a **[link](https://drive.google.com/uc?id=13JHQlD7srAPWLRVQsEsc-vD4AsJTFJ_w&export=download)** to my CV. 
+Here's a **[link](https://drive.google.com/uc?id=1q67xFODxRT39SAzo8RMQJl3XsuTW7HXv&export=download)** to my CV. 
 
 
 # Publications
