@@ -4,7 +4,7 @@ title: Academic Service
 ---
 # Teaching
 
-I have enjoyed teaching since I became a Tutor in the Writing Center as an undergraduate at Georgetown University. We explored approaches to pedagogy and assessment, and I was excited by the chance to connect with others through teaching. I have furthered my training at Johns Hopkins through workshops offered by the Center for the Integration of Research, Teaching, and Learning [(CIRTL)](https://www.cirtl.net/) and the JHU Center for Educational Resources [(CER)](https://cer.jhu.edu/).
+I've enjoyed teaching since I became a Tutor in the Writing Center as an undergraduate at Georgetown University. We explored approaches to pedagogy and assessment, and I was excited by the chance to connect with others through teaching. I have furthered my training at Johns Hopkins through workshops offered by the Center for the Integration of Research, Teaching, and Learning [(CIRTL)](https://www.cirtl.net/) and the JHU Center for Educational Resources [(CER)](https://cer.jhu.edu/).
 
 ### Teaching Assistant 
 
@@ -15,13 +15,13 @@ In Fall 2020 and Spring 2021, I was a Teaching Assistant for the Biology Departm
 
 ### Technology Fellowship
 
-I was recently awarded a **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources. I'm partnering with Carolyn Norris, the Developmental Genetics Professor, and [Dylan Taylor](https://dtaylo95.github.io/), another grad student in my lab. We are using this support to develop a computational approach for designing CRISPR reagents, which were piloted in the Fall 2021 sections of Developmental Genetics Lab and will be updated for the Spring 2022 course. 
+I was awarded a 2021 **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources. I'm partnering with Carolyn Norris, the Developmental Genetics Professor, and [Dylan Taylor](https://dtaylo95.github.io/), another grad student in my lab. We are using this support to develop a computational approach for designing CRISPR reagents, which were piloted in the Fall 2021 sections of Developmental Genetics Lab and will be updated for the Spring 2022 course. 
 
 <br />
 
 # symBIOsis
 
-I'm a member of the organizational board of **[symBIOsis](https://sites.krieger.jhu.edu/symbiosis/)**, a graduate student organization in the Department of Biology founded in 2020.
+From 2020-2022, I was a member of the organizational board of **[symBIOsis](https://sites.krieger.jhu.edu/symbiosis/)**, a graduate student organization in the Department of Biology founded in 2020.
 
 A few things we offer to PhD students in the Biology Department:
 
