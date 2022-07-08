@@ -6,7 +6,7 @@ layout: about
 
 I’m a [National Science Foundation Graduate Research Fellow](https://nsfgrfp.org/) and PhD Candidate in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University. 
 
-My current research investigates bias, dispersion, and error in human development. I am advised by [Rajiv McCoy](https://mccoy-lab.org/) and am broadly interested in human genomics and evolution. 
+I am advised by [Rajiv McCoy](https://mccoy-lab.org/) and am broadly interested in human genomics and evolution. My current research investigates bias, dispersion, and error in human development. 
 
 I majored in Biology and Classics at Georgetown University, where I conducted research with [Manus Patten](https://www.pattenlab.com/). I then spent two years as a Science Policy Fellow at the [Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute) (STPI), working on projects for Executive Branch agencies including the NIH and NASA.
 
