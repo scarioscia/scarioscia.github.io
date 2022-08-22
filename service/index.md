@@ -15,7 +15,7 @@ In Fall 2020 and Spring 2021, I was a Teaching Assistant for the Biology Departm
 
 ### Technology Fellowship
 
-I was awarded a 2021 **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources. I'm partnering with Carolyn Norris, the Developmental Genetics Professor, and [Dylan Taylor](https://dtaylo95.github.io/), another grad student in my lab. We are using this support to develop a computational approach for designing CRISPR reagents, which were piloted in the Fall 2021 sections of Developmental Genetics Lab and will be updated for the Spring 2022 course. 
+I was awarded a 2021 **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources. I'm partnering with Carolyn Norris, the Developmental Genetics Professor, and [Dylan Taylor](https://dtaylo95.github.io/), another grad student in my lab. We are using this support to develop a computational approach for designing CRISPR reagents, which were piloted in the Fall 2021 sections of Developmental Genetics Lab and updated for the Spring 2022 course. 
 
 <br />
 
@@ -28,13 +28,12 @@ A few things we offer to PhD students in the Biology Department:
 * Practice rotation talks for first years
 * Mock qualifying exams for second years
 * Advising meetings on topics like choosing thesis labs and writing grant applications
+* Mentorship pairing and events to connect first years with upper year students (Biobuddies)
 * Resources for grad school (Baltimore housing guide, fellowship examples)
 * Social events (trivia nights, movie screenings)
-
-We also run the BioBuddies program, which pairs incoming CMDB first years with upper-year mentors. I had my first BioBuddy last year, and sharing our grad experiences made even a bizarre year really wonderful. 
 
 <br />
 
 # Agara Bio 
-Earlier this year, Dylan and I created and taught a two-part computational biology workshop series on [hidden markov models](https://github.com/scarioscia/hmm_workshop) for [Agara Bio](https://www.agarabio.org/), a community bio lab led by JHU undergraduates.
+In 2020 and 2021, Dylan and I created and taught a two-part computational biology workshop series on [hidden markov models](https://github.com/scarioscia/hmm_workshop) for [Agara Bio](https://www.agarabio.org/), a community bio lab led by JHU undergraduates.
 
