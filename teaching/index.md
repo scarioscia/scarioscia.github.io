@@ -14,7 +14,7 @@ In Fall 2020 and Spring 2021, I was a Teaching Assistant for the Biology Departm
 
 ### Technology Fellowship
 
-I was awarded a 2021 **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources. I'm partnering with Carolyn Norris, the Developmental Genetics Professor, and [Dylan Taylor](https://dtaylo95.github.io/), another grad student in my lab. We are using this support to develop a computational approach for designing CRISPR reagents, which were piloted in the Fall 2021 sections of Developmental Genetics Lab and updated for the Spring 2022 course. 
+I was awarded a 2021 **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources along with [Dylan Taylor](https://dtaylo95.github.io/), another grad student in my lab. We used this support to develop a computational approach for designing CRISPR reagents, which was implemented as a four-week module in the Fall 2021 and Spring 2022 sections of the Developmental Genetics Lab course for undergraduates. 
 
 <br />
 
