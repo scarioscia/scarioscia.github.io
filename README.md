@@ -37,4 +37,4 @@ This repo was forked from the [AP Jekyll theme](https://github.com/kssim/ap), wh
 * `_site` - weird HTML pages that auto-update
 
 ## Tabs
-To add new tabs to your side, `mkdir tab_topic`, then add a line in `_layouts/base.html` below the existing tab lines with `tab_topic` as the directory and the words you'd like to click on your site.  
+To add new tabs to your site, `mkdir tab_topic`, then add a line in `_layouts/base.html` below the existing tab lines with `tab_topic` as the directory and the words you'd like to click on your site.  
