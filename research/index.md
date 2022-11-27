@@ -16,6 +16,10 @@ The recent development of high-throughput single-cell genome sequencing of human
 To this end, we developed a method called rhapsodi (R haploid sperm/oocyte data imputation) that uses low-coverage single-cell DNA sequencing data from large samples of gametes to reconstruct phased donor haplotypes, impute gamete genotypes, and map meiotic recombination events. rhapsodi is introduced in our [preprint](https://www.biorxiv.org/content/10.1101/2021.11.19.469261v2); it is available as a user-friendly and thoroughly benchmarked package **[here](https://github.com/mccoy-lab/rhapsodi)**. 
 
 
+### Technology Fellowship 
+I was awarded a 2021 **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources along with [Dylan Taylor](https://dtaylo95.github.io/), another grad student in my lab. We used this support to develop a computational approach for designing CRISPR reagents, which was implemented as a four-week module in the Fall 2021 and Spring 2022 sections of the Developmental Genetics Lab course for undergraduates.
+
+
 ### Science Policy
 
 From 2017 to 2019, I worked as a Science Policy Fellow at the **[Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute)** (STPI), a federally-funded research and development center in Washington, DC. STPI receives funding from the NSF to conduct research and projects for the White House Office of Science and Technology Policy (OSTP). STPI also contracts with government agencies across the Executive Branch to offer science and technology analysis. 
