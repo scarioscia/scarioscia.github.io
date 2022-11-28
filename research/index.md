@@ -31,6 +31,6 @@ These projects generally included research and literature review, interviews, an
 - A congressionally mandated **[evaluation](https://www.ida.org/-/media/feature/publications/e/ev/evaluation-of-a-human-mission-to-mars-by-2033/d-10510.ashx)** of NASA's roadmap for a human mission to Mars by 2033 
 - An examination of assessment capabilities across the Federal government, including case studies of evaluation in offices within the Department of Defense, Department of Labor, National Institute of Standards and Technology (NIST), National Science Foundation (NSF), National Institutes of Health (NIH), and USAID
 - Early research on trends in the on-orbit servicing, assembly, and manufacturing of space technologies, including a White House-convened **[summit](https://www.ida.org/-/media/feature/publications/r/ro/roundtable-proceedings-ways-forward-for-on-orbit-servicing/d-10445.ashx)** 
-- A review of laws and regulations governing exports of space technologies and how they are implemented (e.g., International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR)) 
+- A review of laws and regulations governing exports of space technologies and how they are implemented, including International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR) 
 
 <br />
