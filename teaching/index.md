@@ -11,7 +11,7 @@ I am designing a new course for the 2023 Intersession at Johns Hopkins (`AS.020.
 
 ### Quantitative Biology 
 
-In Fall 2021, I was a Teaching Assistant for the Quantitative Biology (`AS.020.617`) course offered to first-year graduate students in the Cell, Molecular, Developmental Biology and Biophysics PhD program. Students develop their own implementations of widely-used computational biology tools (primarily using Python and Bash) for essential studies including assembly of genomes, analysis of transcription factor binding and motifs, detecting genome variation, measuring expression of genes, and understanding genome evolution. I'm currently (Fall 2022) a tutor for the course. 
+In Fall 2021, I was a Teaching Assistant for the Quantitative Biology (`AS.020.617`) course offered to first-year graduate students in the Cell, Molecular, Developmental Biology and Biophysics PhD program. Students develop their own implementations of widely-used computational biology tools (primarily using Python and Bash) for essential studies including assembly of genomes, analysis of transcription factor binding and motifs, detecting genome variation, measuring expression of genes, and understanding genome evolution. I was a tutor for the course in Fall 2022. 
 
 ### Developmental Genetics
 
