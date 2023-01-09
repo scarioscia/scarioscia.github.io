@@ -3,15 +3,15 @@ layout: post
 title: Teaching
 ---
 
-I've enjoyed teaching since working as a tutor in the Writing Center as an undergraduate at Georgetown University. We explored approaches to pedagogy and assessment, and I was excited by the chance to connect with others through teaching. I have furthered my training at Johns Hopkins through workshops offered by the Center for the Integration of Research, Teaching, and Learning [(CIRTL)](https://www.cirtl.net/) and the JHU Center for Educational Resources [(CER)](https://cer.jhu.edu/).
+I am pursuing teaching training through workshops offered by the Center for the Integration of Research, Teaching, and Learning [(CIRTL)](https://www.cirtl.net/) and the JHU Center for Educational Resources [(CER)](https://cer.jhu.edu/). My favorite sessions have been a three-part course on Ungrading, where we learned and discussed effective means of giving feedback to students, beyond assigning a number. I also enjoyed the three-day [Teaching Institute](https://ctei.jhu.edu/teaching-academy/ti), especially the sections on assessment, active learning, and course planning. 
 
 ### Modeling Biological Populations 
-I am designing a new course for the 2023 Intersession at Johns Hopkins (`AS.020.313`), along with a grad student in my lab, [Andrew Bortvin](https://andrew-bortvin.github.io/). Our course will introduce students to coding in Python, develop models for populations (ranging from invasive species to proliferating cancer cells), and compare their models to real-world data. It is intended for students of all levels (including freshmen) and departments; no experience with biology or coding necessary. We will have "advanced" exercises for those students with significant experience in coding or modeling prior to our course. Check out our **[syllabus]**(https://andrew-bortvin.github.io/mbp23.github.io/syllabus/), and our course materials (lecture notes, coding demonstrations, exercise answer keys) will be posted on our course **[Github]**(https://github.com/scarioscia/modeling_biological_populations). 
+I am designing a new course for the 2023 Intersession at Johns Hopkins (`AS.020.313`), along with a grad student in my lab, [Andrew Bortvin](https://andrew-bortvin.github.io/). Our course will introduce students to coding in Python, develop models for populations (ranging from invasive species to proliferating cancer cells), and compare their models to real-world data. It is intended for students of all levels (including freshmen) and departments; no experience with biology or coding necessary. We will have "advanced" exercises for those students with significant experience in coding or modeling prior to our course. Check out our **[syllabus](https://andrew-bortvin.github.io/mbp23.github.io/syllabus/)**, and our course materials (lecture notes, coding demonstrations, exercise answer keys) will be posted on our course **[Github](https://github.com/scarioscia/modeling_biological_populations)**. 
 
 
 ### Quantitative Biology 
 
-In Fall 2021, I was a Teaching Assistant for the Quantitative Biology (`AS.020.617`) course offered to first-year graduate students in the Cell, Molecular, Developmental Biology and Biophysics PhD program. Students develop their own implementations of widely-used computational biology tools (primarily using Python and Bash) for essential studies including assembly of genomes, analysis of transcription factor binding and motifs, detecting genome variation, measuring expression of genes, and understanding genome evolution. I was a tutor for the course in Fall 2022. 
+In Fall 2021, I was a Teaching Assistant for the Quantitative Biology (`AS.020.617`) course offered to first-year graduate students in the Cell, Molecular, Developmental Biology and Biophysics PhD program. Students develop their own implementations of widely-used computational biology tools (primarily using Python and Bash) for essential studies including assembly of genomes, analysis of transcription factor binding and motifs, detecting genome variation, measuring expression of genes, and understanding genome evolution. I was a tutor for the course in Fall 2022 and am currently a tutor for the spring semester, Quantitative Biology and Biophysics (`AS.020.674`). 
 
 ### Developmental Genetics
 
@@ -24,6 +24,10 @@ In Spring 2022 I gave a lecture and hosted an activity session regarding peer re
 ### Teaching Assistant Orientation 
 
 I had the opportunity to co-lead an orientation session for new TAs (usually first- or second-year PhD students) at Johns Hopkins alongside [Alex Gittens](https://www.linkedin.com/in/alexgittens/), a Chemistry PhD student in Fall 2021 and Spring 2022. We covered topics including TA-ing as part of your training, managing the relationship with the professor in charge of the course, and grading, among other things. See highlights **[here](https://twitter.com/saracarioscia/status/1491049080055021569?s=20&t=Rz-R8nov3GIyFGyiJNKP3Q)** and **[here](https://twitter.com/saracarioscia/status/1430986468290220033?s=20&t=Rz-R8nov3GIyFGyiJNKP3Q)**.
+
+### Georgetown University Writing Center
+
+I worked as a tutor for three years as an undergraduate. I offered one-on-one sessions ranging from 30-60 minutes, working with undergraduate and graduate students on all steps of the writing process - from brainstorming, outlining, and drafting to review and editing. I especially focused on scientific writing. 
 
 <br />
 
