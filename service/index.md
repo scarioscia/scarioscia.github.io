@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Academic Service
+title: Academic Outreach
 ---
 
 # symBIOsis
