@@ -3,7 +3,7 @@ layout: post
 title: Teaching
 ---
 
-I am pursuing teaching training through workshops offered by the Center for the Integration of Research, Teaching, and Learning [(CIRTL)](https://www.cirtl.net/) and the JHU Center for Educational Resources [(CER)](https://cer.jhu.edu/). My favorite sessions have been a three-part course on Ungrading, where we learned and discussed effective means of giving feedback to students, beyond assigning a number. I also enjoyed the three-day [Teaching Institute](https://ctei.jhu.edu/teaching-academy/ti), especially the sections on assessment, active learning, and course planning. 
+I am pursuing teaching training through workshops offered by the Center for the Integration of Research, Teaching, and Learning [(CIRTL)](https://www.cirtl.net/) and the JHU Center for Teaching Excellence & Innovation [(CTEI)](https://ctei.jhu.edu/). I just completed (January 2023) Johns Hopkins' [Certificate of Completion](https://ctei.jhu.edu/teaching-academy/coc), through which I pursued extensive training in pedagogy and evidence-based teaching practices, course design, and assessment. My favorite sessions have been a three-part course on Ungrading, where we learned and discussed effective means of giving feedback to students, beyond assigning a number. I also enjoyed the three-day [Teaching Institute](https://ctei.jhu.edu/teaching-academy/ti), especially the sections on assessment, active learning, and course planning. 
 
 
 ### Modeling Biological Populations 
