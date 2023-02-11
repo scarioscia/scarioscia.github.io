@@ -9,13 +9,15 @@ Mendel’s Law of Segregation states that the offspring of a diploid, heterozygo
 
 We leveraged [recently published](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351608/) single-cell sequencing data from over 40,000 individual sperm across 25 donors. This scan enabled us to look at an earlier developmental time point than had been considered in previous studies, with the possibility of avoiding the effects of downstream selection and other biases. Our results exhibited close concordance with binomial expectations under balanced transmission, in contrast to tenuous signals of TD that were previously reported in pedigree-based studies. See our paper **[here](https://doi.org/10.7554/eLife.76383)** and our code **[here](https://github.com/mccoy-lab/transmission-distortion)**.
 
+{% include image.html url="../images/research_images/td_pipeline_schematic.jpg" caption="Application of rhapsodi to sperm-seq data from Carioscia et al. (eLife) 2022." height="250px" align="left" %}
+{% include image.html url="../images/research_images/td_pipeline_schematic.jpg" caption="Transmission rate of each allele by donor in imputed sperm data." height="250px" align="right" %}
 
 ### rhapsodi: an R package to impute sparsely sequenced haploid genomes 
 The recent development of high-throughput single-cell genome sequencing of human sperm (termed "Sperm-seq") offers an opportunity to study various aspects of meiosis and inheritance with improved statistical power. However, the low sequencing coverage per cell (0.01x) necessitates the development of tailored statistical methods for recovering gamete genotypes.
 
 To this end, we developed a method called rhapsodi (R haploid sperm/oocyte data imputation) that uses low-coverage single-cell DNA sequencing data from large samples of gametes to reconstruct phased donor haplotypes, impute gamete genotypes, and map meiotic recombination events. rhapsodi is introduced in our [paper](https://doi.org/10.7554/eLife.76383); it is available as a user-friendly and thoroughly benchmarked package **[here](https://github.com/mccoy-lab/rhapsodi)**. 
 
-{% include image.html url="../images/research_images/elife-76383-fig5-figsupp1-v2.jpg" caption="Expected time to coalescence for an ancient sample into a modern panel from Biddanda, Steinrücken, Novembre (Genetics) 2022." height="250px" align="left" %}
+{% include image.html url="../images/research_images/rhapsodi_schematic.jpg" caption="Schematic for rhapsodi from Carioscia et al. (eLife) 2022." height="250px" align="left" %}
 
 
 ### Technology Fellowship 
