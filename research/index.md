@@ -10,7 +10,8 @@ Mendel’s Law of Segregation states that the offspring of a diploid, heterozygo
 We leveraged [recently published](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351608/) single-cell sequencing data from over 40,000 individual sperm across 25 donors. This scan enabled us to look at an earlier developmental time point than had been considered in previous studies, with the possibility of avoiding the effects of downstream selection and other biases. Our results exhibited close concordance with binomial expectations under balanced transmission, in contrast to tenuous signals of TD that were previously reported in pedigree-based studies. See our paper **[here](https://doi.org/10.7554/eLife.76383)** and our code **[here](https://github.com/mccoy-lab/transmission-distortion)**.
 
 {% include image.html url="../images/research_images/td_pipeline_schematic.jpg" caption="Application of rhapsodi to sperm-seq data from Carioscia et al. (eLife) 2022." height="250px" align="left" %}
-{% include image.html url="../images/research_images/td_pipeline_schematic.jpg" caption="Transmission rate of each allele by donor in imputed sperm data." height="250px" align="right" %}
+
+{% include image.html url="../images/research_images/td_transmission_rates.jpg" caption="Transmission rate of each allele by donor in imputed sperm data." height="250px" align="right" %}
 
 ### rhapsodi: an R package to impute sparsely sequenced haploid genomes 
 The recent development of high-throughput single-cell genome sequencing of human sperm (termed "Sperm-seq") offers an opportunity to study various aspects of meiosis and inheritance with improved statistical power. However, the low sequencing coverage per cell (0.01x) necessitates the development of tailored statistical methods for recovering gamete genotypes.
