@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Work in Science Policy, 2017-2019
+title: Highlights from my work in science policy
 ---
 From 2017 to 2019, I worked as a Science Policy Fellow at the Science and Technology Policy Institute (STPI), a federally-funded research and development center in Washington, DC. STPI receives funding from the NSF to conduct research and projects for the White House Office of Science and Technology Policy (OSTP). STPI also contracts with government agencies across the Executive Branch to offer S&T analysis. Some of my work while there...
 
