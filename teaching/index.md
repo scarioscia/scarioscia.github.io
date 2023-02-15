@@ -7,7 +7,7 @@ I am pursuing teaching training through workshops offered by the Center for the 
 
 
 ### Modeling Biological Populations 
-I designed a new course for the 2023 Intersession at Johns Hopkins (`AS.020.313`), along with a grad student in my lab, [Andrew Bortvin](https://andrew-bortvin.github.io/). Our course introduced students to coding in Python, developing models for populations (ranging from invasive species to proliferating cancer cells), and comparing their models to real-world data. It was designed for students of all levels (including freshmen) and departments; no experience with biology or coding necessary. We offered "advanced" exercises for those students with significant experience in coding or modeling prior to our course. Check out our **[syllabus](https://andrew-bortvin.github.io/mbp23.github.io/syllabus/)** and find our course materials (lecture notes, coding demonstrations, exercise answer keys) on our course **[Github](https://github.com/scarioscia/modeling_biological_populations)**. 
+I designed a new course for the 2023 Intersession at Johns Hopkins (`AS.020.313`), along with a grad student in my lab, [Andrew Bortvin](https://andrew-bortvin.github.io/). Our course introduced students to coding in Python, developing models for populations (ranging from invasive species to proliferating cancer cells), and comparing their models to real-world data. It was designed for students of all levels (including freshmen) and departments; no experience with biology or coding necessary. We offered "advanced" exercises for those students with significant experience in coding or modeling prior to our course. Check out our **[syllabus](https://andrew-bortvin.github.io/mbp23.github.io/syllabus/)** and find our course materials (lecture notes, coding demonstrations, exercise answer keys) on our **[Github](https://github.com/scarioscia/modeling_biological_populations)**. 
 
 
 ### Quantitative Biology 
@@ -24,7 +24,7 @@ In Spring 2022 I gave a lecture and hosted an activity session regarding peer re
 
 ### Teaching Assistant Orientation 
 
-I had the opportunity to co-lead an orientation session for new TAs (usually first- or second-year PhD students) at Johns Hopkins alongside [Alex Gittens](https://www.linkedin.com/in/alexgittens/), a Chemistry PhD student in Fall 2021 and Spring 2022. We covered topics including TA-ing as part of your training, managing the relationship with the professor in charge of the course, and grading, among other things. See highlights **[here](https://twitter.com/saracarioscia/status/1491049080055021569?s=20&t=Rz-R8nov3GIyFGyiJNKP3Q)** and **[here](https://twitter.com/saracarioscia/status/1430986468290220033?s=20&t=Rz-R8nov3GIyFGyiJNKP3Q)**.
+I had the opportunity to co-lead an orientation session for new TAs (usually first- or second-year PhD students) at Johns Hopkins alongside [Alex Gittens](https://www.linkedin.com/in/alexgittens/), a Chemistry PhD student, in Fall 2021 and Spring 2022. We covered topics including TA-ing as part of your training, managing the relationship with the professor in charge of the course, and grading, among other things. See highlights **[here](https://twitter.com/saracarioscia/status/1491049080055021569?s=20&t=Rz-R8nov3GIyFGyiJNKP3Q)** and **[here](https://twitter.com/saracarioscia/status/1430986468290220033?s=20&t=Rz-R8nov3GIyFGyiJNKP3Q)**.
 
 ### Georgetown University Writing Center
 
