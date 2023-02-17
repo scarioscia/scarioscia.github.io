@@ -5,7 +5,9 @@ title: Reflections - teaching my Intersession course
 
 ## Thinking through an Intersession course 
 
-I've decided I'm obsessed with Intersession. Spring semester at Johns Hopkins starts the last week of January. So for three weeks between holiday break and late Jan., undergraduates can explore one- or two-credit courses in topics not generally offered during the semester. We met with Dr. Emily Fisher, the Director of the undergraduate biology major, to get a sense of where student interests were and how our course might contribute to departmental offerings. We also met with Allon Brann, a teaching support specialist at JHU, to go over the pillars of course design. After kicking around some ideas in the broad space of computational biology, my friend [Andrew Bortvin](https://andrew-bortvin.github.io/) and I decided to offer a course in modeling biological populations.
+I've decided I'm obsessed with Intersession. Spring semester at Johns Hopkins starts the last week of January. So for three weeks between holiday break and late Jan., undergraduates can explore one- or two-credit courses in topics not generally offered during the semester. 
+
+We met with Dr. Emily Fisher, the Director of the undergraduate biology major, to get a sense of where student interests were and how our course might contribute to departmental offerings. We also met with Allon Brann, a teaching support specialist at JHU, to go over the pillars of course design. After kicking around some ideas in the broad space of computational biology, my friend **[Andrew Bortvin](https://andrew-bortvin.github.io/)** and I decided to offer a course in modeling biological populations.
 
 ## Course design 
 
@@ -16,7 +18,7 @@ We chose to offer the course in the Python programming language, because
 - It's commonly used in the field
 - The principles can be translated and applied to other scripting languages such as R
 
-As a two-credit course, we were required to offer 24 instructional hours and elected to do so over a two-week period. (I think we could've done this in a three-week period, but we'd both taken more immersive coding classes, like the computational bootcamp and quantitative biology courses for our grad program, and thought a condensed view would help get the students - especially the more novice coders - more comfortable with the material.) We decided on Tues-Wed-Thurs, Tues-Wed-Thurs, for four hours each day (1-5pm).  
+As a two-credit course, we were required to offer 24 instructional hours and elected to do so over a two-week period. (I think we could've done this in a three-week period, but we thought a condensed view would help get the students - especially the more novice coders - more comfortable with the material.) We decided on Tues-Wed-Thurs, Tues-Wed-Thurs, for four hours each day (1-5pm).  
 
 We had both been instructors of students with varying levels of experience in coding, and we both care deeply about meeting our students where they are and maximizing their learning. We sent out a pre-class survey to our students to get a sense of their comfort with the concepts (biological modeling and coding in Python). We knew our class had a maximum of 12 students, so we used free-response questions to allow them maximum flexibility in their answers. 
 
@@ -56,7 +58,7 @@ We took breaks throughout, based on student energy and cadence of the class. We 
 
 I also tried to keep each model open-ended, so that students could suggest populations, species, cell types, etc. that interested them, and we would use those as examples in class. One student brought up capybaras, which I had never seen before: 
 
-<iframe src="https://giphy.com/embed/EviMvUKRFnF8Gkz93W" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zooberlin-EviMvUKRFnF8Gkz93W">via GIPHY</a></p>
+<center><iframe src="https://giphy.com/embed/EviMvUKRFnF8Gkz93W" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zooberlin-EviMvUKRFnF8Gkz93W"></a></p>
 
 We also offered a mid-class survey after the first week, to ask students about the pacing and balance of the course, as well as to solicit input on anything they were particularly interested in. This was really helpful, and we used the weekend to make sure our upcoming course plans addressed these topics. 
 
@@ -64,7 +66,7 @@ We also offered a mid-class survey after the first week, to ask students about t
 
 Alarm goes off at 5:45am. I hop out of bed, energized and ready to brave public transportation and tackle my day! [Record scratch] I roll over, already strategizing about how to acquire free coffee when I get to campus. 
 
-<iframe src="https://giphy.com/embed/ceeFbVxiZzMBi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/people-coffee-very-ceeFbVxiZzMBi">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/ceeFbVxiZzMBi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/people-coffee-very-ceeFbVxiZzMBi"></a></p>
 
 For the majority of class days, I spent the morning recapping yesterday's experience. This meant filling in the student notes with any additional material that came up in class, writing a summary email to students, and then tailoring the beginning of that day's lecture notes and materials to pick up where yesterday ended (and to personalize the course material based on student interests from the previous day). This took a lot of time, because I wanted to tailor the course to student interests and abilities.  
 
