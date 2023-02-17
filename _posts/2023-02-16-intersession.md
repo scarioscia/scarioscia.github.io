@@ -58,15 +58,15 @@ We took breaks throughout, based on student energy and cadence of the class. We 
 
 I also tried to keep each model open-ended, so that students could suggest populations, species, cell types, etc. that interested them, and we would use those as examples in class. One student brought up capybaras, which I had never seen before: 
 
-<center><iframe src="https://giphy.com/embed/EviMvUKRFnF8Gkz93W" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zooberlin-EviMvUKRFnF8Gkz93W"></a></p>
+<center><iframe src="https://giphy.com/embed/EviMvUKRFnF8Gkz93W" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zooberlin-EviMvUKRFnF8Gkz93W"></a></p></center>
 
-We also offered a mid-class survey after the first week, to ask students about the pacing and balance of the course, as well as to solicit input on anything they were particularly interested in. This was really helpful, and we used the weekend to make sure our upcoming course plans addressed these topics. 
+We offered a mid-class survey after the first week, to ask students about the pacing and balance of the course, as well as to solicit input on anything they were particularly interested in. This was really helpful, and we used the weekend to make sure our upcoming course plans addressed these topics. 
 
 ## A day in the life of an Intersession instructor
 
 Alarm goes off at 5:45am. I hop out of bed, energized and ready to brave public transportation and tackle my day! [Record scratch] I roll over, already strategizing about how to acquire free coffee when I get to campus. 
 
-<iframe src="https://giphy.com/embed/ceeFbVxiZzMBi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/people-coffee-very-ceeFbVxiZzMBi"></a></p>
+<center><iframe src="https://giphy.com/embed/ceeFbVxiZzMBi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/people-coffee-very-ceeFbVxiZzMBi"></a></p></center>
 
 For the majority of class days, I spent the morning recapping yesterday's experience. This meant filling in the student notes with any additional material that came up in class, writing a summary email to students, and then tailoring the beginning of that day's lecture notes and materials to pick up where yesterday ended (and to personalize the course material based on student interests from the previous day). This took a lot of time, because I wanted to tailor the course to student interests and abilities.  
 
@@ -74,7 +74,7 @@ We offered an office hour before the start of class each day (12-1pm); I actuall
 
 After the students left, Andrew and I would debrief about our respective sections, highlight what the students particularly latched onto and found exciting, and strategize about how to include those in the following day. We also talked about the challenges - one student who was stuck on a particular syntax, a student who wasn't regularly participating - and worked together to think of how to improve our approaches for the next day. 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Okay, I&#39;m obsessed with Intersession <a href="https://twitter.com/JohnsHopkins?ref_src=twsrc%5Etfw">@JohnsHopkins</a>. A chance for students to explore a new topic, with no grades + no pressure. <br><br>In just one week I&#39;ve seen students with no programming experience start to ask GREAT questions and develop their own intuitions. Obsessed.</p>&mdash; Sara Carioscia (@saracarioscia) <a href="https://twitter.com/saracarioscia/status/1615489275394416642?ref_src=twsrc%5Etfw">January 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Okay, I&#39;m obsessed with Intersession <a href="https://twitter.com/JohnsHopkins?ref_src=twsrc%5Etfw">@JohnsHopkins</a>. A chance for students to explore a new topic, with no grades + no pressure. <br><br>In just one week I&#39;ve seen students with no programming experience start to ask GREAT questions and develop their own intuitions. Obsessed.</p>&mdash; Sara Carioscia (@saracarioscia) <a href="https://twitter.com/saracarioscia/status/1615489275394416642?ref_src=twsrc%5Etfw">January 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 ## Everyone's favorite: assessment
 
@@ -82,7 +82,7 @@ Assessment in an Intersession course is interesting. For starters, the courses a
 
 How to quantify a student's ability to dig deeper? For a few students this was easy - they anticipated the next step (e.g., add another population to their model) and started at least pseudo-coding right away. I emphasized from the first day how 99% (ok, maybe less) of coding is googling. By the end of the first week, I saw every student able to pseudo-code "I want to do x" and then start googling "how to do x in Python." This is such a fundamental skill and I'm relieved that they picked it up. We asked to see their code books (either at the end of class or via email) and checked generally the logic and reasoning behind their code (we didn't focus on execution of syntax). In a semester-long course, I would assess (Pass/Fail or A/B) based on completion and effort rather than syntax, with some percentage of the code that should execute successfully. (We've had training in the topic of Ungrading and I generally feel that grades neither suport nor accurately represent student learning.)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An update on <a href="https://twitter.com/hashtag/ungrading?src=hash&amp;ref_src=twsrc%5Etfw">#ungrading</a>! Thanks again to @JHU_CER and <a href="https://twitter.com/JHUTeachAcad?ref_src=twsrc%5Etfw">@JHUTeachAcad</a> for supporting these conversations + encouraging us to be *intentional* in our assessments of student work and learning <a href="https://t.co/nhVDjvhRlG">https://t.co/nhVDjvhRlG</a></p>&mdash; Sara Carioscia (@saracarioscia) <a href="https://twitter.com/saracarioscia/status/1384986828701413378?ref_src=twsrc%5Etfw">April 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">An update on <a href="https://twitter.com/hashtag/ungrading?src=hash&amp;ref_src=twsrc%5Etfw">#ungrading</a>! Thanks again to @JHU_CER and <a href="https://twitter.com/JHUTeachAcad?ref_src=twsrc%5Etfw">@JHUTeachAcad</a> for supporting these conversations + encouraging us to be *intentional* in our assessments of student work and learning <a href="https://t.co/nhVDjvhRlG">https://t.co/nhVDjvhRlG</a></p>&mdash; Sara Carioscia (@saracarioscia) <a href="https://twitter.com/saracarioscia/status/1384986828701413378?ref_src=twsrc%5Etfw">April 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 ## Lessons learned 
 
