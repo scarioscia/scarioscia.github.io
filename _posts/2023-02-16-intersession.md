@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections: teaching my Intersession course
+title: Reflections - teaching my Intersession course
 ---
 
 ## Thinking through an Intersession course 
