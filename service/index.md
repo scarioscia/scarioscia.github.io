@@ -21,5 +21,5 @@ Check out our tips for applying to the NSF GRFP [here](https://drive.google.com/
 <br />
 
 # Agara Bio 
-In 2020 and 2021, Dylan and I created and taught a two-part computational biology workshop series on [hidden markov models](https://github.com/scarioscia/hmm_workshop) for [Agara Bio](https://www.agarabio.org/), a community bio lab led by JHU undergraduates.
+In 2020 and 2021, Dylan and I created and taught a two-part computational biology **[workshop series](https://github.com/scarioscia/hmm_workshop)** on hidden markov models for [Agara Bio](https://www.agarabio.org/), a community bio lab led by JHU undergraduates. Check out our workbooks and let us know if you have any questions or suggestions! 
 
