@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections from teaching my Intersession course
+title: Reflections: teaching my Intersession course
 ---
 
 ## Thinking through an Intersession course 
@@ -18,7 +18,7 @@ As a two-credit course, we were required to offer 24 instructional hours and ele
 We had both been instructors of students with varying levels of experience in coding (and we had both been students in classes with very varied levels of experience!), and we both care deeply about meeting our students where they are and maximizing their learning. We sent out a pre-class survey to our students to get a sense of their comfort with the concepts (biological modeling and coding in Python). We knew our class had a maximum of 12 students, so we used free-response questions to allow them maximum flexibility in their answers. 
 
 <figure class="figure">
-	<img src="../images/blog_images/intersession_2023/mbp_preclass_survey2023.png" width="700" height="350" alt="">
+	<img src="../images/blog_images/intersession_2023/mbp_preclass_survey2023.png" alt="">
 	<figcaption class="figcaption">Survey sent to enrolled students a few days ahead of class.</figcaption>
 </figure><br>
 
@@ -44,7 +44,7 @@ We took breaks throughout, based on student energy and cadence of the class. We 
 
 
 <figure class="figure">
-	<img src="../images/blog_images/intersession_2023/GoogleColabHints.png" width="700" height="350" alt="">
+	<img src="../images/blog_images/intersession_2023/GoogleColabHints.png" alt="">
 	<figcaption class="figcaption">An example of a student notebook, where we wrote in a comment prompting them to code the next step and offered hints (which they can view only if they choose) for the code of the model and an explanation behind each step of the model.</figcaption>
 </figure><br>
 
