@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Research Articles
+title: CV
 ---
+Here's a **[link](https://drive.google.com/uc?id=1k5x1Wi4l5sAyLeix9AyyENdfskd1Ofji&export=download)** to my CV and a **[link](https://drive.google.com/uc?id=1g_VISyFLMjH4smPUAiEGWKRyim5eJy3F&export=download)** to my resume.
 
+## Publications
 
 **Carioscia, SA**,\* Weaver, KJ,\* Bortvin, AN, Ariad, D, Bell, AD, McCoy, RC. A method for low-coverage single-gamete sequence analysis demonstrates adherence to Mendel's first law across a large sample of human sperm. *eLife*, \* *Equal contribution*. doi: [https://doi.org/10.7554/eLife.76383](https://doi.org/10.7554/eLife.76383) 
 
