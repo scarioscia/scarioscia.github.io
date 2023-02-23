@@ -11,6 +11,9 @@ We leveraged [recently published](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7
 
 {% include image.html url="../images/research_images/td_pipeline_schematic.jpg" height="250px" align="center" %}
 
+Check Twitter for a summary of our findings! 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our paper was highlighted in an <a href="https://twitter.com/eLife?ref_src=twsrc%5Etfw">@eLife</a> digest - a really great chance to put our work in context and share jargon-free. Check it out! <a href="https://t.co/lEmKCa0860">https://t.co/lEmKCa0860</a> <a href="https://t.co/muiIPEMi7Z">https://t.co/muiIPEMi7Z</a></p>&mdash; Sara Carioscia (@saracarioscia) <a href="https://twitter.com/saracarioscia/status/1628101974318264321?ref_src=twsrc%5Etfw">February 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### rhapsodi: an R package to impute sparsely sequenced haploid genomes 
 The recent development of high-throughput single-cell genome sequencing of human sperm (termed "Sperm-seq") offers an opportunity to study various aspects of meiosis and inheritance with improved statistical power. However, the low sequencing coverage per cell (0.01x) necessitates the development of tailored statistical methods for recovering gamete genotypes.
