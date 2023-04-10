@@ -38,7 +38,7 @@ This is useful by eye, as I can see for example that the individual with sample_
 2 1 2 1 6 4 1 2 1 
 ```
 
-So in this example, we have two individuals present in the dataset one time; one individual present in the dataset four times; and six individuals present in the dataset 5 times. We also see that the maximum number of appearnces in the dataset was 9, and that it was only one individual who made 9 appearances in the dataframe. 
+In this example, we have two individuals present in the dataset one time; one individual present in the dataset four times; and six individuals present in the dataset 5 times. We also see that the maximum number of appearnces in the dataset was 9, and that it was only one individual who made 9 appearances in the dataframe. 
 
 The most common number of appearances was 5: there are six individuals who appear in the dataframe five times. If we want to see those six individuals, we can execute `which(table(df$sample_id) == 5)`, which gives 1) each `sample_id` that appeared in the dataframe 5 times and 2) the position of that `sample_id` in the initial table command. Executing `which(table(df$sample_id) == 5)` yields: 
 ```
