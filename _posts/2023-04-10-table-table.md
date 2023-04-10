@@ -1,3 +1,8 @@
+---
+layout: post
+title: Get a count of the repeated values in a dataframe: nested `table()` in R
+---
+
 Lately I've been exploring large datasets by querying metadata files. In the metadata, each individual and has a unique identifier in the column `sample_id`. Some individuals are in the metadata multiple times, and I was curious about the distribution of those frequencies - are most people only in it once? What's the max? How many people are in it a large number of times? 
 
 First, here's some R code to simulate a dataframe that mimics the metadata file I'm working with: 
