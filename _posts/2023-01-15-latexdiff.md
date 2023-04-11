@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using `latexdiff` to track changes in LaTeX via Overleaf 
+title: Using `latexdiff` to track changes in LaTeX 
 ---
 
 For my first grad school [manuscript](https://elifesciences.org/articles/76383), we used LaTeX via [Overleaf](https://www.overleaf.com). There was a bit of a learning curve, but it proved useful (with Overleaf premium) for version control, tracked changes, and figure integration. After revisions (and revisions, and revisions...) we were ready to resubmit. In addition to the standard "response to reviewers" letter, I thought it would be useful to include a tracked changes version of the document (like in Microsoft Word or Google Docs). Luckily, a package exists specifically for LaTeX.

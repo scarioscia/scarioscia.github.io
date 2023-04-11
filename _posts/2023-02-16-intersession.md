@@ -11,11 +11,11 @@ We met with Dr. Emily Fisher, the Director of the undergraduate biology major, t
 
 ## Course design 
 
-"Biological populations" is a vague term - and intentionally so. A population can range from a group of individuals to a group of cells to a group of alleles... and we let our course walk through each of those. 
+"Biological populations" is a vague term - intentionally so. A population can range from a group of individuals to a group of cells to a group of alleles... and we let our course walk through each of those. 
 
 We chose to offer the course in the Python programming language, because 
 - Reasonably good resources exist for collaboration (e.g., Google Colab) and don't require students to download any programs on their computers
-- It's commonly used in the field
+- It's commonly used in the field of computational biology
 - The principles can be translated and applied to other scripting languages such as R
 
 As a two-credit course, we were required to offer 24 instructional hours and elected to do so over a two-week period. (I think we could've done this in a three-week period, but we thought a condensed view would help get the students - especially the more novice coders - more comfortable with the material.) We decided on Tues-Wed-Thurs, Tues-Wed-Thurs, for four hours each day (1-5pm).  
@@ -29,7 +29,7 @@ We had both been instructors of students with varying levels of experience in co
 
 We were pretty lucky that our group split cleanly into two groups with regard to programming experience: 5 students had responses along the lines of "I've taken courses in Python and related languages", and the other 5 clustered around "I get the basic idea of coding: type and computer go vroom." 
 
-There was more variation in their experience with biology (some juniors who had taken most of the courses required for the biology major, and some first-years who took AP Bio), but we decided to leverage that variety and let the students drive the broad biological topics with their own curiosity. 
+There was more variation in their experience with biology (some juniors who had taken most of the courses required for the biology major, and some first-years whose most recent course was AP Bio), but we decided to leverage that variety and let the students drive the broad biological topics with their own curiosity. 
 
 To borrow Andrew's wording from the Syllabus, we ran the course in two sections (in two separate rooms), "one of which focuses more on coding fundamentals and syntax, and one which moves at a faster pace and covers more biological implementation for students comfortable with programming."
 
@@ -68,9 +68,9 @@ Alarm goes off at 5:45am. I hop out of bed, energized and ready to brave public 
 
 <center><iframe src="https://giphy.com/embed/ceeFbVxiZzMBi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/people-coffee-very-ceeFbVxiZzMBi"></a></p></center>
 
-For the majority of class days, I spent the morning recapping yesterday's experience. This meant filling in the student notes with any additional material that came up in class, writing a summary email to students, and then tailoring the beginning of that day's lecture notes and materials to pick up where yesterday ended (and to personalize the course material based on student interests from the previous day). This took a lot of time, because I wanted to tailor the course to student interests and abilities.  
+On most class days, I spent the morning following up on the previous day's class. This meant filling in the student notes with any additional material that came up in class, writing a summary email to students, and then tailoring the beginning of that day's lecture notes and materials to pick up where yesterday ended (and to personalize the course material based on student interests from the previous day). This took a lot of time, because I wanted to tailor the course to student interests and abilities.  
 
-We offered an office hour before the start of class each day (12-1pm); I actually prefer calling these "student hours" to emphasize that the time is for the student, but literally not one student showed... so they really were office hours. This allowed Andrew and I extra time to prep and check in about where our respective sections were and what we wanted to emphasize that day. However, students (especially in the more syntax-focused group) stayed 45 minutes after class on average (sometimes even up to 90 minutes!) to keep working on their code and pepper us with questions. If I were to do this again, I'd offer my drop-in time at the end of class, so it could function as more of a "student hour" while their questions were fresh on their minds. 
+We offered an office hour before the start of class each day (12-1pm); I actually prefer calling these "student hours" to emphasize that the time is for the student, but literally not one student showed... so they really were office hours. This allowed Andrew and I extra time to prep and check in about where our respective sections were and what we wanted to emphasize that day. However, students (especially in the more syntax-focused group) stayed after class (for an average of 45 minutes, and sometimes even up to 90 minutes!) to keep working on their code and pepper us with questions. If I were to do this again, I'd offer my drop-in time at the end of class, so it could function as more of a "student hour" while their questions were fresh on their minds. 
 
 After the students left, Andrew and I would debrief about our respective sections, highlight what the students particularly latched onto and found exciting, and strategize about how to include those in the following day. We also talked about the challenges - one student who was stuck on a particular syntax, a student who wasn't regularly participating - and worked together to think of how to improve our approaches for the next day. 
 
@@ -78,11 +78,11 @@ After the students left, Andrew and I would debrief about our respective section
 
 ## Everyone's favorite: assessment
 
-Assessment in an Intersession course is interesting. For starters, the courses are Pass/Fail, and I don't think there is any penalty for dropping a course, even toward the end of its run. (This kind of meant that each day when all my students showed up, I was relieved.) It was really important to both of us that the students met the course learning goal: know enough to pursue more coding classes and projects. We wanted to get them comfortable with the idea of coding, and we wanted to get them familiar with the questions in biological modeling so they could pursue both on their own. 
+Assessment in an Intersession course is interesting. For starters, Intersession courses are offered only Pass/Fail, and I don't think there is any penalty for dropping a course, even toward the end of its run. (This kind of meant that each day when all my students showed up, I was relieved.) It was really important to both of us that the students met the course learning goal: know enough to pursue more coding classes and projects. We wanted to get them comfortable with the idea of coding, and we wanted to get them familiar with the questions in biological modeling so they could pursue both on their own. 
 
 How to quantify a student's ability to dig deeper? For a few students this was easy - they anticipated the next step (e.g., add another population to their model) and started at least pseudo-coding right away. I emphasized from the first day how 99% (ok, maybe less) of coding is googling. 
 
-By the end of the first week, I saw every student able to pseudo-code "I want to do x" and then start googling "how to do x in Python." This is such a fundamental skill and I'm relieved that they picked it up. We asked to see their code books (either at the end of class or via email) and checked generally the logic and reasoning behind their code (we didn't focus on execution of syntax). 
+By the end of the first week, I saw every student able to pseudo-code "I want to do x" and then start googling "how to do x in Python." This is such a fundamental skill and I'm relieved that they picked it up. We asked to see their code books (either at the end of class or via email) and checked generally the logic and reasoning behind their code; we didn't focus on execution of syntax. 
 
 In a semester-long course, I would assess (Pass/Fail or A/B) based on completion and effort rather than syntax, with some percentage of the code that should execute successfully. (We've had training in the topic of Ungrading and I generally feel that grades neither suport nor accurately represent student learning.)
 
