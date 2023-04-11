@@ -2,7 +2,7 @@
 layout: post
 title: Highlights from my work in science policy
 ---
-From 2017 to 2019, I worked as a Science Policy Fellow at the Science and Technology Policy Institute (STPI), a federally-funded research and development center in Washington, DC. STPI receives funding from the NSF to conduct research and projects for the White House Office of Science and Technology Policy (OSTP). STPI also contracts with government agencies across the Executive Branch to offer S&T analysis. Some of my work while there...
+From 2017 to 2019, I worked as a Science Policy Fellow at the Science and Technology Policy Institute (STPI), a federally-funded research and development center in Washington, DC. STPI receives funding from the NSF to conduct research and projects for the White House Office of Science and Technology Policy (OSTP). STPI also contracts with government agencies across the Executive Branch to provide science and technology policy analysis. Some of my work while there included:
 
 - Work supporting the White House Initiative on the "Bioeconomy", including a case study of ownership, data sharing, and privacy issues regarding personal genomic data
 - Reviews of U.S. Government policy on life sciences dual use research of concern (DURC) and of Federally-funded infectious disease '-omics' databases
