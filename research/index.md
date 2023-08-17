@@ -7,12 +7,9 @@ title: Research
 ### Testing for transmission distortion in a large sample of human sperm genomes
 Mendel’s Law of Segregation states that the offspring of a diploid, heterozygous parent will inherit either allele with equal probability. While the vast majority of loci adhere to this rule, research in model and non-model organisms has uncovered numerous exceptions whereby “selfish” alleles are disproportionately transmitted to the next generation. Evidence of such transmission distortion (TD) in humans remains equivocal in part due to statistical and sample size limitations of past studies.
 
-We leveraged [recently published](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351608/) single-cell sequencing data from over 40,000 individual sperm across 25 donors. This scan enabled us to look at an earlier developmental time point than had been considered in previous studies, with the possibility of avoiding the effects of downstream selection and other biases. Our results exhibited close concordance with binomial expectations under balanced transmission, in contrast to tenuous signals of TD that were previously reported in pedigree-based studies. See our paper **[here](https://doi.org/10.7554/eLife.76383)** and our code **[here](https://github.com/mccoy-lab/transmission-distortion)**.
+We leveraged [recently published](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351608/) single-cell sequencing data from over 40,000 individual sperm across 25 donors. This scan enabled us to look at an earlier developmental time point than had been considered in previous studies, with the possibility of avoiding the effects of downstream selection and other biases. Our results exhibited close concordance with binomial expectations under balanced transmission, in contrast to tenuous signals of TD that were previously reported in pedigree-based studies. See our paper **[here](https://doi.org/10.7554/eLife.76383)** and our code **[here](https://github.com/mccoy-lab/transmission-distortion)**. Check Twitter for a [summary](https://twitter.com/saracarioscia/status/1628101974318264321?ref_src=twsrc%5Etfw) of our findings! 
 
 {% include image.html url="../images/research_images/td_pipeline_schematic.jpg" height="250px" align="center" %}
-
-Check Twitter for a summary of our findings! 
-<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our paper was highlighted in an <a href="https://twitter.com/eLife?ref_src=twsrc%5Etfw">@eLife</a> digest - a really great chance to put our work in context and share jargon-free. Check it out! <a href="https://t.co/lEmKCa0860">https://t.co/lEmKCa0860</a> <a href="https://t.co/muiIPEMi7Z">https://t.co/muiIPEMi7Z</a></p>&mdash; Sara Carioscia (@saracarioscia) <a href="https://twitter.com/saracarioscia/status/1628101974318264321?ref_src=twsrc%5Etfw">February 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 
 ### rhapsodi: an R package to impute sparsely sequenced haploid genomes 
@@ -23,12 +20,8 @@ To this end, we developed a method called rhapsodi (R haploid sperm/oocyte data 
 {% include image.html url="../images/research_images/rhapsodi_schematic.jpg" height="250px" align="center" %}
 
 
-### Technology Fellowship 
-I was awarded a 2021 **[Technology Fellowship](https://cer.jhu.edu/techfellows)** from the Johns Hopkins Center for Educational Resources along with [Dylan Taylor](https://dtaylo95.github.io/), another grad student in my lab. We used this support to develop a computational approach for designing CRISPR reagents, which was implemented as a four-week module in the Fall 2021 and Spring 2022 sections of the Developmental Genetics Lab course for undergraduates.
-
-
 ### Science Policy
 
-From 2017 to 2019, I worked as a Science Policy Fellow at the **[Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute)** (STPI), a federally-funded research and development center in Washington, DC. STPI receives funding from the NSF to conduct research and projects for the White House Office of Science and Technology Policy (OSTP). STPI also contracts with government agencies across the Executive Branch to offer science and technology analysis. These projects generally included research and literature review, interviews, and some project-specific analyses, followed by briefings, conference presentations, and formal publications. Check out some specifics of my work **[here](https://scarioscia.github.io/2023-01-25/science-policy)**.
+From 2017 to 2019, I worked as a Science Policy Fellow at the **[Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute)** (STPI), a federally-funded research and development center in Washington, DC. STPI receives funding from the NSF to conduct research and projects for the White House Office of Science and Technology Policy (OSTP). STPI also contracts with government agencies across the Executive Branch to offer science and technology analysis. These projects generally included research and literature review, interviews, and some project-specific analyses, followed by briefings, conference presentations, and formal publications. Check out some details about my work **[here](https://scarioscia.github.io/2023-01-25/science-policy)**.
 
 <br />
