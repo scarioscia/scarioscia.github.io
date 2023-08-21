@@ -3,7 +3,7 @@ layout: post
 title: Academic Outreach
 ---
 
-# symBIOsis
+## symBIOsis
 
 From 2020-2022, I was a member of the organizational board of **[symBIOsis](https://sites.krieger.jhu.edu/symbiosis/)**, a graduate student group in the Department of Biology at Johns Hopkins founded by PhD students in 2020.
 
@@ -21,7 +21,7 @@ Check out our [highlights](https://twitter.com/saracarioscia/status/156791742023
 <br />
 
 
-# A Computational Approach for Designing CRISPR Reagents 
+## A Computational Approach for Designing CRISPR Reagents 
 
 I was awarded a 2021 **[Institutional Enhancement Grant](https://ctei.jhu.edu/programs-and-services/instructional-enhancement-grant-program)** from the Johns Hopkins Center for Teaching Excellence & Innovation along with [Dylan Taylor](https://dtaylo95.github.io/), another grad student in my lab. We used this support to develop a computational approach for designing CRISPR reagents, which was implemented as a five-week module in the Fall 2021 and Spring 2022 sections of the Developmental Genetics Lab course for undergraduates. 
 
@@ -30,7 +30,7 @@ We've updated these resources to offer a standalone module for anyone interested
 <br />
 
 
-# Hidden Markov Models in Python
+## Hidden Markov Models in Python
 
 In 2020 and 2021, Dylan and I created and taught a two-part computational biology **[workshop series](https://twitter.com/saracarioscia/status/1364238709869207552?ref_src=twsrc%5Etfw)** on hidden markov models for [Agara Bio](https://www.agarabio.org/), a community bio lab led by Johns Hopkins undergraduates. 
 
