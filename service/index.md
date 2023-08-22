@@ -21,7 +21,7 @@ Check out our [highlights](https://twitter.com/saracarioscia/status/156791742023
 <br />
 
 
-## A Computational Approach for Designing CRISPR Reagents 
+## Computationally Designing CRISPR Reagents 
 
 I was awarded a 2021 **[Institutional Enhancement Grant](https://ctei.jhu.edu/programs-and-services/instructional-enhancement-grant-program)** from the Johns Hopkins Center for Teaching Excellence & Innovation along with [Dylan Taylor](https://dtaylo95.github.io/), another grad student in my lab. We used this support to develop a computational approach for designing CRISPR reagents, which was implemented as a five-week module in the Fall 2021 and Spring 2022 sections of the Developmental Genetics Lab course for undergraduates. 
 
