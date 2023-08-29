@@ -2,7 +2,7 @@
 layout: post
 title: CV
 ---
-Here's a **[link](https://drive.google.com/uc?id=1ib1U1J82RV1Z33QT39u8M_BGk_nJ-LMk/view?usp=download)** to my CV and a **[link](https://drive.google.com/uc?id=1g_VISyFLMjH4smPUAiEGWKRyim5eJy3F&export=download)** to my resume.
+Here's a **[link](https://drive.google.com/uc?id=1ib1U1J82RV1Z33QT39u8M_BGk_nJ-LMk&export=download)** to my CV and a **[link](https://drive.google.com/uc?id=1g_VISyFLMjH4smPUAiEGWKRyim5eJy3F&export=download)** to my resume.
 
 ## Publications
 
