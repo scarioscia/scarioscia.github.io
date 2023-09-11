@@ -13,7 +13,7 @@ I designed a new course for the 2023 Intersession at Johns Hopkins (`AS.020.313`
 
 ### Quantitative Biology Bootcamp
 
-In September 2023, I will be a Teaching Assistant for the Quantitative Biology Bootcamp (`AS.020.607`) course offered to first-year graduate students in the Cell, Molecular, Developmental Biology and Biophysics PhD program. This one-week intensive course introduces students to fundamentals of Python and bash, along with implementations of these in genomic analysis. Using git and GitHub, I will give students personalized feedback on their assignments; students will build on these skills throughout the academic year in subsequent courses. I developed resources for the course available **[here](https://andrew-bortvin.github.io/swcmdb/index.html)**.
+In September 2023, I was a Teaching Assistant for the Quantitative Biology Bootcamp (`AS.020.607`) course offered to first-year graduate students in the Cell, Molecular, Developmental Biology and Biophysics PhD program. I guided students individually and in small groups through the fundamentals of Python and bash, along with implementations of these in genomic analysis. I gave students personalized feedback on their assignments using git and GitHub. I developed resources for the course available **[here](https://andrew-bortvin.github.io/swcmdb/index.html)**.
 
 ### Quantitative Biology 
 
