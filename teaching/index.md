@@ -5,7 +5,7 @@ title: Teaching
 
 ## Instructor
 
-### Population Simulation and Visualization 
+### Population Genetics Simulation and Visualization 
 In Fall 2023, my colleague [Andrew Bortvin](https://andrew-bortvin.github.io/) offered a course (360.111) for undergraduates interested in understanding population dynamics and in building a foundation for coding techniques. Our course leveraged the simulation software [SLiM](https://messerlab.org/slim/); in class, we introduced new functions and commands, and then students worked independently or in small groups to 1) develop simulations to address certain questions, 2) test different parameters, and 3) answer big-picture questions about what they observed and what else they might try. Our course **[website](https://andrew-bortvin.github.io/slimNotes/)** includes the assignments, slides and papers of interest, and in-class live-coding; raw files are available on our [GitHub](https://github.com/andrew-bortvin/slimNotes). 
 
 ### Modeling Biological Populations 
