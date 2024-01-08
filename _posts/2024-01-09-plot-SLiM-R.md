@@ -5,7 +5,7 @@ title: Plotting outputs from SLiM simulations in R
 
 Some of the most fun part of any analysis is data visualization! Once you've written your SLiM outputs to file (see [post #1](https://scarioscia.github.io/2024-01-05/writing-SLiM-output)) and defined your variables via the command line (see [post #2](https://scarioscia.github.io/2024-01-07/command-line-SLiM)), you can investigate the trends in your simulations, determine the effects of changing parameters, and visualize these outcomes through a scripting language such as R. 
 
-The basic units of an R script are detailed on our course [site](https://andrew-bortvin.github.io/slimNotes/week-4-assignment.html); this page also includes a tutorial in the major package for plotting in R, `ggplot`. 
+The basic units of an R script are detailed on our course [site](https://andrew-bortvin.github.io/slimNotes/week-4-assignment.html). This page also includes a tutorial in the major package for plotting in R, `ggplot`. 
 
 The first time you use a package in R, you'll need to install it using the `install.packages()` command. Once its installed on your machine, you can then load the package using the `library()` command. For example, if you're interested in the data visualization package `ggplot`, you would execute `install.packages("ggplot2")` and then `library(ggplot2)`.
 
@@ -17,12 +17,12 @@ library(dplyr)
 library(ggplot2)
 ```
 
-If you were interested in reading in just a single file from your simulation, you could read it in via 
+To load a file in R, you'll read it into your script. You'll need to include both the filename and its filepath (either absolute on your machine, or relative to where you're writing your script). If you were interested in reading in just a single file from your simulation, you could read it in via 
 ```
 myfile <- read.csv("slim/p1_AF_trial1.csv")
 ```
 
-However, you may want to generate numerous simulation outputs and compare them all on a single plot. To do this, you can read them in to a single data structure (here called a `dataframe`) through a `for loop`:
+However, you may want to generate numerous simulation outputs and compare them all on a single plot. For example, perhaps you ran the command `slim -d trialNumber=1 scratch.slim` four times, changing the `trialNumber` variable to values from 1 through 4. Toload these files, you can read them in to a single data structure (here called a `dataframe`) through a `for loop`:
 
 ```
 # Create an empty data frame to store the combined data
@@ -46,4 +46,4 @@ ggplot(data = combined_data,
     geom_line(aes(linetype=as.factor(Population)))
 ```
 
-
+Good luck, and let us know what you think! 
