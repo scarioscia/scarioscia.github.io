@@ -9,7 +9,9 @@ Mac users can download the SLiM GUI on their [website](https://messerlab.org/sli
 
 In creating our course materials, we leveraged the SLiM [manual](https://messerlab.org/slim/) and added substantial detail regarding features useful for our class on our course [website](https://andrew-bortvin.github.io/slimNotes/slim-guide.html). One of those topics involved running a simulation over multiple combinations of parameters and generating a file for each output. Here is a summary of that pipeline.
 
-Each filename will include the trial number, or some other unique identifier of what the output corresponds to. This trial number is a constant defined in the `initialize()` statement (along with any other parameters necessary for our simulation): 
+
+
+In writing each simulation to file, each filename will include the trial number, or some other unique identifier of what the output corresponds to. This trial number is a constant defined in the `initialize()` statement (along with any other parameters necessary for our simulation): 
 
 ```
 initialize() {
@@ -35,8 +37,6 @@ initialize() {
 } 
 ```
 
-We can then use this new variable `trialNumber` to create a name for our file. We define this name and create the file at the first generation we'd like to start recording output. We also create a header for our file, which will therefore show us the column names. This header will be the same across each run of the simulation (i.e., so we can compare outputs across different input parameters) but of course may differ across simulations, depending on the information you are recording. 
-
 We then start our simulation at the first generation, as usual: 
 
 ```
@@ -44,6 +44,8 @@ We then start our simulation at the first generation, as usual:
   sim.addSubpop("p1", 5000);
 }
 ```
+
+We can then use this variable `trialNumber` to create a name for our file. We define this name and create the file at the first generation we'd like to start recording output. We also create a header for our file, which will therefore show us the column names. This header will be the same across each run of the simulation (i.e., so we can compare outputs across different input parameters) but of course may differ across simulations, depending on the information you are recording. 
 
 In this example, we create the header, define the filename, and initiate the file with the `writeFile()` function at the end of the 300th generation:
 
@@ -75,7 +77,7 @@ In this example, we create the header, define the filename, and initiate the fil
 }
 ```
 
-If you were to view your file after just 300 generations, it would have one line: the header you self-defined. You can then add your simulation information from each subsequent generation: 
+If you were to view your file after just 300 generations, it would have one line: the header you defined. You can then add your simulation information from each subsequent generation: 
 
 ```
 300:1000 late() {

@@ -5,7 +5,7 @@ title: Executing SLiM from the command line
 
 Earlier this week I wrote a [post](https://scarioscia.github.io/2024-01-05/writing-SLiM-output) about outputting the results of various SLiM simulations to files. In that example, you would need to change the parameters for each simulation within your `.slim` file, and update some indication of the simulation number (e.g., `trialNumber`). 
 
-Obviously, opening the `.slim` file and changing these variables manually is not ideal. Instead, you can define the variables on the command line when you run the script. To do this, we'll use the command line version of SLiM, which should be automatically installed when you install the SLiM graphical user interface (GUI); if you have any challenges with that, try working through installation as outlined on the website and in the SLiM [manual](https://messerlab.org/slim/). 
+Obviously, opening the `.slim` file and changing these variables manually is not ideal. Instead, you can define the variables on the **command line** when you run the script. To do this, we'll use the command line version of SLiM, which should be automatically installed when you install the SLiM graphical user interface (GUI); installation is outlined on the website and in the SLiM [manual](https://messerlab.org/slim/). 
 
 Let's start by creating a SLiM script with a neutral simulation, called `scratch.slim`:
 
@@ -26,7 +26,7 @@ initialize() {
 }
 ```
 
-We can then initialize a population: 
+We can then initialize a population in the first generation: 
 
 ```
 // create a population of 500 individuals
@@ -66,7 +66,10 @@ Let's update our script now to use inputs from the command line. We'll replace t
 
 As you can see, `trialNumber` is not yet defined in our simulation. Instead, we'll pass that variable via the command line by typing: `slim -d trialNumber=19 scratch.slim`. 
 
-Let's break that statement down. First, `slim` is the command used to run the SLiM program; it's the executable that starts the simulation. The `-d` flag means "define" and lets SLiM know you're about to define a variable with a value; in this case we're defining the variable `trialNumber` to be 19. (You can view other possible flags, or "options", by typing `slim -h`, for help, or even just `slim`.) Finally, we're writng the name of the SLiM script file we want to execute. 
+Let's break that statement down. 
+- First, `slim` is the command used to run the SLiM program; it's the executable that starts the simulation. 
+- The `-d` flag means "define" and lets SLiM know you're about to define a variable with a value; in this case we're defining the variable `trialNumber` to be 19. (You can view other possible flags, or "options", by typing `slim -h`, for help, or even just `slim`.) 
+- Finally, we're writing the name of the SLiM script file we want to execute. 
 
 You can update your script to include other variables that are not defined in your file but are also accepted from the command line; this can include the population model, genetic events, and other simulation details. 
 
