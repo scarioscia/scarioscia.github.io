@@ -3,9 +3,9 @@ layout: post
 title: Executing SLiM from the command line  
 ---
 
-Earlier this week I wrote a [post]() about outputting the results of various SLiM simulations to files. In that example, you would need to change the parameters for each simulation within your `.slim` file, and update some indication of the simulation number (e.g., `trialNumber`). 
+Earlier this week I wrote a [post](https://scarioscia.github.io/2024-01-05/writing-SLiM-output) about outputting the results of various SLiM simulations to files. In that example, you would need to change the parameters for each simulation within your `.slim` file, and update some indication of the simulation number (e.g., `trialNumber`). 
 
-Obviously, opening the `.slim` file and changing these variables manually is not ideal. Instead, you can define the variables on the command line when you run the script. To do this, we'll use the command line version of SLiM, which should be automatically installed when you install the SLiM graphical user interface (GUI); if you have any challenges with that, try working through installation as outlined on the website and in the SLiM [manual](https://messerlab.org/slim/). This article (and our entire course using SLiM for population genetic models at Johns Hopkins!) was co-written with my colleague, [Andrew Bortvin](https://andrew-bortvin.github.io/).  
+Obviously, opening the `.slim` file and changing these variables manually is not ideal. Instead, you can define the variables on the command line when you run the script. To do this, we'll use the command line version of SLiM, which should be automatically installed when you install the SLiM graphical user interface (GUI); if you have any challenges with that, try working through installation as outlined on the website and in the SLiM [manual](https://messerlab.org/slim/). 
 
 Let's start by creating a SLiM script with a neutral simulation, called `scratch.slim`:
 
@@ -35,7 +35,7 @@ We can then initialize a population:
 }
 ```
 
-We let that population just exist for some amount of time; then at the 2000th generation we write our output to file. You can add to your simulation any other population dynamics of interest (either from this week's post or from a page on our course [website](https://andrew-bortvin.github.io/slimNotes/slim-guide.html)).
+We let that population just exist for some amount of time; then at the 2000th generation we write our output to file. You can add to your simulation any other population dynamics of interest (either from my earlier week's [post](https://scarioscia.github.io/2024-01-05/writing-SLiM-output) or from a page on our course [website](https://andrew-bortvin.github.io/slimNotes/slim-guide.html)).
 
 ```
 2000 late() { 
@@ -44,12 +44,14 @@ We let that population just exist for some amount of time; then at the 2000th ge
 	fname = paste("~/slim/slimTest.txt", sep = "");
 	
 	// for non-Mac systems use a format like:
-  	// fname = paste("C:/Users/[user]/Downloads/slimTest.txt", sep=""));
+  // fname = paste("C:/Users/[user]/Downloads/slimTest.txt", sep=""));
 	
-  	// write the fixed mutations to the file you just named 
+  // write the fixed mutations to the file you just named 
 	sim.outputFixedMutations(filePath = fname, append = F); 
 }
 ```
+
+Instead of typing in the specific filepath and name (also called "hard-coding"), let's try defining `trialNumber` externally and passing it to our script via the command line.
 
 To run your script from the command line, open any interface (`Terminal` on Mac is installed by default; for Windows, consider [`Cygwin`](https://www.cygwin.com/)). Navigate to the folder containing your script, and then execute it by typing `slim scratch.slim`. This will run your script with parameter values as defined within the file. 
 
@@ -67,4 +69,6 @@ As you can see, `trialNumber` is not yet defined in our simulation. Instead, we'
 Let's break that statement down. First, `slim` is the command used to run the SLiM program; it's the executable that starts the simulation. The `-d` flag means "define" and lets SLiM know you're about to define a variable with a value; in this case we're defining the variable `trialNumber` to be 19. (You can view other possible flags, or "options", by typing `slim -h`, for help, or even just `slim`.) Finally, we're writng the name of the SLiM script file we want to execute. 
 
 You can update your script to include other variables that are not defined in your file but are also accepted from the command line; this can include the population model, genetic events, and other simulation details. 
+
+This article (and our entire [course](https://andrew-bortvin.github.io/slimNotes/slim-guide.html) using SLiM for population genetic models at Johns Hopkins!) was co-written with my colleague, [Andrew Bortvin](https://andrew-bortvin.github.io/). Let us know if you have any questions or suggestions! 
 

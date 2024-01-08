@@ -3,49 +3,52 @@ layout: post
 title: Writing outputs from SLiM simulations to file
 ---
 
-SLiM is an evolutionary simulation software that allows investigation of a variety of population genetic simulations. Last Fall, my colleague [Andrew Bortvin](https://andrew-bortvin.github.io/) and I decided to design and offer a course for undergraduates (Population Genetics Simulation and Visualization) at Johns Hopkins, using SLiM to create these simulations. Mac users can download the SLiM GUI on their [website](https://messerlab.org/slim/). Windows users can refer to pages 64-66 of the SLiM [manual](https://messerlab.org/slim/) for installation guidance. 
+SLiM is an evolutionary simulation software that allows investigation of a variety of population genetic simulations. Last Fall, my colleague [Andrew Bortvin](https://andrew-bortvin.github.io/) and I designed and taught a course for undergraduates (Population Genetics Simulation and Visualization) at Johns Hopkins. We used SLiM to create these simulations and R to visualize the outputs. 
 
-In doing so, we leveraged the SLiM [manual](https://messerlab.org/slim/) and added substantial detail regarding features useful for our class on our course [website](https://andrew-bortvin.github.io/slimNotes/slim-guide.html). One of those topics involved running a simulation over multiple combinations of parameters and generating a file for each output. Here is a summary of that pipeline.
+Mac users can download the SLiM GUI on their [website](https://messerlab.org/slim/). Windows users can refer to pages 64-66 of the SLiM [manual](https://messerlab.org/slim/) for installation guidance. 
+
+In creating our course materials, we leveraged the SLiM [manual](https://messerlab.org/slim/) and added substantial detail regarding features useful for our class on our course [website](https://andrew-bortvin.github.io/slimNotes/slim-guide.html). One of those topics involved running a simulation over multiple combinations of parameters and generating a file for each output. Here is a summary of that pipeline.
 
 Each filename will include the trial number, or some other unique identifier of what the output corresponds to. This trial number is a constant defined in the `initialize()` statement (along with any other parameters necessary for our simulation): 
 
 ```
-initialize(){
-    // Define the variable trialNumber, which we'll use in writing our output file 
-    defineConstant('trialNumber', 1);
+initialize() {
+  // Define the variable trialNumber, which we'll use in writing our output file 
+  defineConstant('trialNumber', 1);
 
-    // Define other parameters necessary for the simulation 
-    initializeMutationRate(1e-7);
-    // Create mutation type
-    initializeMutationType("m1", 0.5, "f", 0.0);
-    initializeMutationType("m2", 1, "f", 0.2);
-    m1.convertToSubstitution = F;
-    m2.convertToSubstitution = F;
+  // Define other parameters necessary for the simulation 
+  initializeMutationRate(1e-7);
+  // Create mutation type
+  initializeMutationType("m1", 0.5, "f", 0.0);
+  initializeMutationType("m2", 1, "f", 0.2);
+  m1.convertToSubstitution = F;
+  m2.convertToSubstitution = F;
     
-    // Create Types of DNA 
-    initializeGenomicElementType("g1", m1, 1);   
+  // Create Types of DNA 
+  initializeGenomicElementType("g1", m1, 1);   
     
-    // Arrange DNA into a genome
-    initializeGenomicElement(g1, 0, 3000);
+  // Arrange DNA into a genome
+  initializeGenomicElement(g1, 0, 3000);
     
-    initializeRecombinationRate(1e-4);
-    initializeSex("A");
+  initializeRecombinationRate(1e-4);
+  initializeSex("A");
 } 
 ```
+
 We can then use this new variable `trialNumber` to create a name for our file. We define this name and create the file at the first generation we'd like to start recording output. We also create a header for our file, which will therefore show us the column names. This header will be the same across each run of the simulation (i.e., so we can compare outputs across different input parameters) but of course may differ across simulations, depending on the information you are recording. 
 
 We then start our simulation at the first generation, as usual: 
+
 ```
-1 early(){
-    sim.addSubpop("p1", 5000);
+1 early() {
+  sim.addSubpop("p1", 5000);
 }
 ```
 
 In this example, we create the header, define the filename, and initiate the file with the `writeFile()` function at the end of the 300th generation:
 
 ```
-300 late(){
-
+300 late() {
   // Steps necessary for the simulation: 
 
   // Initialize generation counter
@@ -56,7 +59,7 @@ In this example, we create the header, define the filename, and initiate the fil
   target = sample(p1.genomes, initial_freq);
   target.addNewDrawnMutation(m2, 1000);   
   
-  // Steps specifically for writing our output to file: 
+  // Steps specifically for writing simulation output to file: 
 
   // Initialize generation counter
   line = "Generation, Allele.Frequency, Trial";
@@ -75,22 +78,22 @@ In this example, we create the header, define the filename, and initiate the fil
 If you were to view your file after just 300 generations, it would have one line: the header you self-defined. You can then add your simulation information from each subsequent generation: 
 
 ```
-300:1000 late(){
+300:1000 late() {
 	// Find out number of generations
-    gen = sim.getValue("generationCount");
+  gen = sim.getValue("generationCount");
     
-    // Count number of m2 mutations in the population
-    m2_count = sum(p1.genomes.countOfMutationsOfType(m2));
+  // Count number of m2 mutations in the population
+  m2_count = sum(p1.genomes.countOfMutationsOfType(m2));
     
-    // Create a line with the information in your header: 
-    // generation number, number of m2 mutations, and trial number 
-    line = paste(gen, m2_count, trialNumber, sep = ",");
+  // Create a line with the information in your header: 
+  // generation number, number of m2 mutations, and trial number 
+  line = paste(gen, m2_count, trialNumber, sep = ",");
 
-    // Write this line to file each generation 
-    writeFile(fname, line, append=T);
+  // Write this line to file each generation 
+  writeFile(fname, line, append=T);
 
-    // Update generation counter
-    sim.setValue("generationCount", gen + 1);
+  // Update generation counter
+  sim.setValue("generationCount", gen + 1);
 }
 ```
 
@@ -100,8 +103,8 @@ We then end our simulation with the command:
 
 ```
 1000 late() { 
-     sim.simulationFinished();
+  sim.simulationFinished();
 }
 ```
 
-You can see an extensive example of creating and writing these output files on our course [website](https://andrew-bortvin.github.io/slimNotes/writing-output.html). 
+You can view the results of your simulation by checking out that file, or conduct further investigation via plotting (e.g., in R or Python!). Check out an extensive example of creating and writing these output files on our course [website](https://andrew-bortvin.github.io/slimNotes/writing-output.html), and please reach out with any questions or suggestions! 
