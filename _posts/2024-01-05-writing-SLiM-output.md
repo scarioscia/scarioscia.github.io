@@ -109,4 +109,4 @@ We then end our simulation with the command:
 }
 ```
 
-You can view the results of your simulation by checking out that file, or conduct further investigation via plotting (e.g., in R or Python!). Check out an extensive example of creating and writing these output files on our course [website](https://andrew-bortvin.github.io/slimNotes/writing-output.html), and please reach out with any questions or suggestions! 
+You can view the results of your simulation by checking out that file, or conduct further investigation via plotting (e.g., in R or Python!). Check out an extensive example of creating and writing these output files on our course [website](https://andrew-bortvin.github.io/slimNotes/writing-output.html), and please reach out with any questions or suggestions! Check out the 2nd of 3 blog posts on this topic - launching SLiM from the command [line](https://scarioscia.github.io/2024-01-07/command-line-SLiM).

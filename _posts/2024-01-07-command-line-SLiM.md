@@ -73,5 +73,5 @@ Let's break that statement down.
 
 You can update your script to include other variables that are not defined in your file but are also accepted from the command line; this can include the population model, genetic events, and other simulation details. 
 
-This article (and our entire [course](https://andrew-bortvin.github.io/slimNotes/slim-guide.html) using SLiM for population genetic models at Johns Hopkins!) was co-written with my colleague, [Andrew Bortvin](https://andrew-bortvin.github.io/). Let us know if you have any questions or suggestions! 
+This article (and our entire [course](https://andrew-bortvin.github.io/slimNotes/slim-guide.html) using SLiM for population genetic models at Johns Hopkins!) was co-written with my colleague, [Andrew Bortvin](https://andrew-bortvin.github.io/). Let us know if you have any questions or suggestions! Check out the third of these three posts, on a simple visualization of the outputs [in R](https://scarioscia.github.io/2024-01-09/plot-SLiM-R).
 
