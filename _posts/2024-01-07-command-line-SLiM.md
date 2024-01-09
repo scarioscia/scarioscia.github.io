@@ -71,7 +71,20 @@ Let's break that statement down.
 - The `-d` flag means "define" and lets SLiM know you're about to define a variable with a value; in this case we're defining the variable `trialNumber` to be 19. (You can view other possible flags, or "options", by typing `slim -h`, for help, or even just `slim`.) 
 - Finally, we're writing the name of the SLiM script file we want to execute. 
 
-You can update your script to include other variables that are not defined in your file but are also accepted from the command line; this can include the population model, genetic events, and other simulation details. 
+You can then expand upon this format to execute multiple simulations at once and write them to file with different parameters or a different file name. In this example, we create an external shell script that will change the `trialNumber` variable for us. In a file named `runSLiM.sh` write: 
+
+```
+#!/bin/bash
+
+for TRIAL in {1..4}
+do
+	slim -d trialNumber=${TRIAL} commandline.slim
+done
+```
+
+To excute your script, write on the command line `bash ./runSLiM.sh`. In this script, the first line is the "shebang", which lets the file know to use the bash executable. The next line is a `for` loop structure, which walks through each of the trial numbers and passes those as a variable within your `slim` command. The `slim` line is the same, but instead of hard-coding or typing a number (e.g., 15) to be used as the `trialNumber` within the script. 
+
+You can update your SLiM script to include other variables that are not defined in your file but are also accepted from the command line; this can include the population model, genetic events, and other simulation details. 
 
 This article (and our entire [course](https://andrew-bortvin.github.io/slimNotes/slim-guide.html) using SLiM for population genetic models at Johns Hopkins!) was co-written with my colleague, [Andrew Bortvin](https://andrew-bortvin.github.io/). Let us know if you have any questions or suggestions! Check out the third of these three posts, on a simple visualization of the outputs [in R](https://scarioscia.github.io/2024-01-09/plot-SLiM-R).
 
