@@ -35,7 +35,7 @@ In January 2023 I completed Johns Hopkins' [Certificate of Completion](https://c
 
 ### Communicating Science 
 
-In Spring 2022 and Spring 2023 I gave a lecture and hosted an activity session regarding peer review for the Biology Department's Communicating Science course (`AS.020.619`). Students spent half the class period reviewing two peers' Specific Aims (following the convention of the NIH's F31 grant application) and then discussing the feedback they received from their peers. We talked about what worked and why, and students reviewed one more set of Aims for homework that week. See the slides and prompts **[here](https://drive.google.com/file/d/1KVz10cekga2QBHQQ-ArDTAg5UCpUzb5F/view?usp=sharing)**. 
+In Spring 2022 and Spring 2023 I gave a lecture and hosted an activity session regarding peer review for the Biology Department's Communicating Science course (`AS.020.619`). Students spent half the class period reviewing two peers' Specific Aims (following the convention of the NIH's F31 grant application) and then discussed the feedback they gave to and received from their peers. We talked about what worked and why, and students reviewed one more set of Aims for homework that week. See the slides and prompts **[here](https://drive.google.com/file/d/1KVz10cekga2QBHQQ-ArDTAg5UCpUzb5F/view?usp=sharing)**. 
 
 ### Teaching Assistant Orientation 
 
