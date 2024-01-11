@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Grad school funding
+---
 
 This is an oldie but a goodie... In 2021, Johns Hopkins career services hosted a multi-day event called [Grad Camp](https://imagine.jhu.edu/channels/grad-camp/), a series of workshops and panels designed to guide prospective grad students through the application and decision-making process. I was on a panel titled "How To NOT Pay for Grad School." You can check out the recording of the whole session [here](https://imagine.jhu.edu/videos/103226/). 
 
