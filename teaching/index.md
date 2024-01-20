@@ -39,7 +39,7 @@ In Spring 2022 and Spring 2023 I gave a lecture and hosted an activity session r
 
 ### Teaching Assistant Orientation 
 
-I had the opportunity to co-lead an orientation session for new TAs (usually first- or second-year PhD students) at Johns Hopkins alongside [Alex Gittens](https://www.linkedin.com/in/alexgittens/), a Chemistry PhD student, in Fall 2021 and Spring 2022. We covered topics including TA-ing as part of your training, managing the relationship with the professor in charge of the course, and grading, among other things. See highlights [here](https://twitter.com/saracarioscia/status/1430986468290220033?ref_src=twsrc%5Etfw) and [here](https://twitter.com/saracarioscia/status/1491049080055021569?ref_src=twsrc%5Etfw).
+I had the opportunity to co-lead an orientation session for new TAs (usually first- or second-year PhD students) at Johns Hopkins alongside [Alex Gittens](https://www.linkedin.com/in/alexgittens/), a Chemistry PhD student, in Fall 2021 and Spring 2022. We covered topics including TA-ing as part of your training, managing the relationship with the professor in charge of the course, and grading, among other things. See highlights [here](https://scarioscia.github.io/2024-01-18/TA-orientation).
 
 
 ### Georgetown University Writing Center
