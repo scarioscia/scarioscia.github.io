@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advice for incoming teaching assistants 
+title: Thoughts on being a teaching assistant
 ---
 
 Being a teaching assistant (TA) is HARD! There are so many demands on your time, along with the conflicting pressure to both follow the instructions and (hopefully) meet your students where they are. This can be made more challenging in a large class with multiple sections and the decrease in flexibility (with lesson plans, pace, grading, feedback, etc.) that accompanies the necessary standardization.
