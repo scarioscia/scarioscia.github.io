@@ -25,7 +25,7 @@ Check out our [highlights](https://twitter.com/saracarioscia/status/156791742023
 
 I was awarded a 2021 **[Institutional Enhancement Grant](https://ctei.jhu.edu/programs-and-services/instructional-enhancement-grant-program)** from the Johns Hopkins Center for Teaching Excellence & Innovation along with [Dylan Taylor](https://dtaylo95.github.io/), another grad student in my lab. We used this support to develop a computational approach for designing CRISPR reagents, which was implemented as a five-week module in the Fall 2021 and Spring 2022 sections of the Developmental Genetics Lab course for undergraduates. 
 
-We've updated these resources to offer a standalone module for anyone interested in learning and using Python; checkout our GitHub **[here](https://github.com/dtaylo95/A-Computational-Approach-to-CRISPR-Reagent-Design)**. Together, the notebooks form the foundation of a program to generate CRISPR reagents for any target sequence and any tag modification. 
+We've updated these resources to offer a standalone module for anyone interested in learning and using Python; check out our **[GitHub](https://github.com/dtaylo95/A-Computational-Approach-to-CRISPR-Reagent-Design)**. Together, the notebooks form the foundation of a program to generate CRISPR reagents for any target sequence and any tag modification. 
 
 <br />
 
@@ -34,4 +34,4 @@ We've updated these resources to offer a standalone module for anyone interested
 
 In 2020 and 2021, Dylan and I created and taught a two-part computational biology **[workshop series](https://twitter.com/saracarioscia/status/1364238709869207552?ref_src=twsrc%5Etfw)** on hidden markov models for [Agara Bio](https://www.agarabio.org/), a community bio lab led by Johns Hopkins undergraduates. 
 
-These notebooks offer a module to take users through introductory Python and HMM basics to developing a standalone model to parse any DNA sequence. Check out our GitHub **[here](https://github.com/scarioscia/hmm_workshop)**, and let us know if you have any questions or suggestions! 
+These notebooks offer a module to take users through introductory Python and HMM basics to developing a standalone model to parse any DNA sequence. Check out our **[GitHub](https://github.com/scarioscia/hmm_workshop)**, and let us know if you have any questions or suggestions! 
