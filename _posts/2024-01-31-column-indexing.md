@@ -3,11 +3,11 @@ layout: post
 title: Using arguments as column names in R tidyverse
 ---
 
-The `dplyr` [package](https://dplyr.tidyverse.org/) is extremely useful for data analysis and manipulation. In particular, the `group_by()` function allows you to view, count, and mutate your data based on your column of interest. Sometimes it's useful to be able to consider multiple columns - like if you have two columns that each describe a trait of your data. Ideally, instead of hard-coding these column names, you could write code that users a variable that you then define as each of your columns of interest. 
+The `dplyr` [package](https://dplyr.tidyverse.org/) is extremely useful for data analysis and manipulation. In particular, the `group_by()` function allows you to view, count, and mutate your data based on your column of interest. Sometimes it's useful to be able to consider multiple columns - like if you have two columns that each describe a trait of your data. Ideally, instead of hard-coding these column names, you could write code that uses a variable that you then define as each of your columns of interest. 
 
-To try this, we can create a sample dataframe. Here we'll make a list of flower types and a list of colors. We'll make a dataframe pairing these flowers and colors. Then, we'll randomly assign each of the plants as "affected" (1) or "unaffected" (0) by some fake condition. 
+To try this, we can create a sample dataframe. Here we'll make a list of flower types and a list of colors. Our dataframe will pair these flowers and colors. Then, we'll randomly assign each of the plants as "affected" (1) or "unaffected" (0) by some condition. 
 ```
-# Set seed for reproducibility (so we get the same output each time we run this code)
+# Set seed for reproducibility 
 set.seed(123)
 
 # Create lists of random data
@@ -38,7 +38,7 @@ If we inspect our data with `head(sample_data)`, the console should display:
 6 Sunflower Yellow        1
 ```
 
-We can see that there are multiple colors of each flower: the first two rows are daisies, but one is orange and one is white. There are also multiple flowers of each color: rows 4 and 6 include two yellow flowers, one of which is a tulip and one of which is a sunflower. We can also see that some of these flowers are affected (1) with our made-up condition, while others are not (0). 
+We can see that there are multiple colors of each flower: the first two rows are daisies, but one is orange and one is white. There are also multiple flowers of each color: rows 4 and 6 include yellow flowers, one of which is a tulip and one of which is a sunflower. We can also see that some of these flowers are affected (1), while others are not (0). 
 
 We might be interested in how many flowers of each color are affected. To do this, we can use functions from the `dplyr` package to group by color and display how many of each color flower is affected: 
 ```
@@ -90,7 +90,8 @@ Again, we see the number of affected, this time shown by type of flower (7 daisi
 Let's imagine we have multiple columns of descriptive data - maybe in addition to flower and color, we have size, date planted, its source (farmer's market, store bought), its origin (whether it was a seed or a bulb), etc. We're interested in how many plants are affected, based on each of these categories. We might want to make a function that lets us investigate each of these descriptive variables by taking the column of interest as an argument: 
 
 ```
-# Define function where our arguments are the input data and the column to sort by 
+# Define function where our arguments are the input data 
+# And the column of interest
 affected_by_column <- function(data, column_name) {
     output <- data %>% 
         group_by(column_name) %>%
@@ -108,13 +109,13 @@ Error in `group_by()`:
 ✖ Column `column_name` is not found.
 ```
 
-This happens because although you're passing it a real column name that does exist ("flower") in your data, the function is treating the variable `column_name` as if it were the name of the actual column in the data. There is no column called "column_name"; our only three columns are "flower", "color", and "affected".
+The function is treating the variable `column_name` as if it were the name of the actual column in the data. There is no column called "column_name"; our only three columns are "flower", "color", and "affected".
 
-To instead communicate to the function that we want to use the **variable** column_name (i.e., the actual string value that is assigned to it), we redefine our function, placing `column_name` within double brackets `{{}}`, to use the "curly-curly" operator: 
+To instead communicate to the function that we want to use the **variable** column_name (i.e., the  string value that is assigned to it), we redefine our function, placing `column_name` within double brackets `{{}}`, to use the "curly-curly" operator: 
 ```
 affected_by_column <- function(data, column_name) {
     output <- data %>% 
-        group_by({{column_name}}) %>%
+        group_by(`{{column_name}}`) %>%
         summarise(num_affected = sum(affected == 1))
 }
 ```
