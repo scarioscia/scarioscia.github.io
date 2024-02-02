@@ -112,10 +112,10 @@ Error in `group_by()`:
 The function is treating the variable `column_name` as if it were the name of the actual column in the data. There is no column called "column_name"; our only three columns are "flower", "color", and "affected".
 
 To instead communicate to the function that we want to use the **variable** column_name (i.e., the  string value that is assigned to it), we redefine our function, placing `column_name` within double brackets, to use the "curly-curly" operator: 
-```r
+```
 affected_by_column <- function(data, column_name) {
     output <- data %>% 
-        group_by({{column_name}}) %>%
+        group_by(/\{\{/column_name/\}\}/) %>%
         summarise(num_affected = sum(affected == 1))
 }
 ```
