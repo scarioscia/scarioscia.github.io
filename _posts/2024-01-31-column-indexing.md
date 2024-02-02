@@ -111,11 +111,11 @@ Error in `group_by()`:
 
 The function is treating the variable `column_name` as if it were the name of the actual column in the data. There is no column called "column_name"; our only three columns are "flower", "color", and "affected".
 
-To instead communicate to the function that we want to use the **variable** column_name (i.e., the  string value that is assigned to it), we redefine our function, placing `column_name` within double brackets `{{}}`, to use the "curly-curly" operator: 
-```
+To instead communicate to the function that we want to use the **variable** column_name (i.e., the  string value that is assigned to it), we redefine our function, placing `column_name` within double brackets {{}}, to use the "curly-curly" operator: 
+```r
 affected_by_column <- function(data, column_name) {
     output <- data %>% 
-        group_by(`{{column_name}}`) %>%
+        group_by({{column_name}}) %>%
         summarise(num_affected = sum(affected == 1))
 }
 ```
@@ -195,6 +195,6 @@ $color
 5 Yellow            9
 ```
 
-This combination of the `tidyeval` curly-curly `{{}}` operator along with the `!!as.name(variable)` syntax is useful for writing reproducible, reusable code for considering multiple columns of data while minimizing duplication. Additional wrappers (e.g., thorugh `map()`) could be applied futher streamlining consideration of multiple variables. Happy coding! 
+This combination of the `tidyeval` curly-curly {{ operator along with the `!!as.name(variable)` syntax is useful for writing reproducible, reusable code for considering multiple columns of data while minimizing duplication. Additional wrappers (e.g., with `map()`) could be applied futher streamlining consideration of multiple variables. Happy coding! 
 
 
