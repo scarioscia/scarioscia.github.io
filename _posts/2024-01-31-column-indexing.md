@@ -194,6 +194,6 @@ $color
 5 Yellow            9
 ```
 
-This combination of the `tidyeval` curly-curly `{{` operator along with the `!!as.name(variable)` syntax is useful for writing reproducible, reusable code for considering multiple columns of data while minimizing duplication. Additional wrappers (e.g., thorugh `map()`) could be applied futher streamlining consideration of multiple variables. Happy coding! 
+This combination of the `tidyeval` curly-curly `{{}}` operator along with the `!!as.name(variable)` syntax is useful for writing reproducible, reusable code for considering multiple columns of data while minimizing duplication. Additional wrappers (e.g., thorugh `map()`) could be applied futher streamlining consideration of multiple variables. Happy coding! 
 
 
