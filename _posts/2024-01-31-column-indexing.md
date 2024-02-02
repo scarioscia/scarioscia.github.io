@@ -115,7 +115,7 @@ To instead communicate to the function that we want to use the **variable** colu
 ```
 affected_by_column <- function(data, column_name) {
     output <- data %>% 
-        group_by(\{\{column_name\}\}) %>%
+        group_by("\{\{column_name\}\}") %>%
         summarise(num_affected = sum(affected == 1))
 }
 ```
