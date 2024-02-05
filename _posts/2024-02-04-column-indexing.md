@@ -112,7 +112,7 @@ The function is treating the variable `column_name` as if it were the name of th
 
 To instead communicate to the function that we want to use the **variable** column_name (i.e., the  string value that is assigned to it), we redefine our function, placing `column_name` within double brackets, to use the "curly-curly" operator: 
 {% raw %}
-```r
+```
 affected_by_column <- function(data, column_name) {
     output <- data %>% 
         group_by({{column_name}}) %>%
