@@ -42,7 +42,7 @@ If we inspect our data with `head(sample_data)`, the console should display:
 
 There are multiple colors of each flower: the first two rows are daisies, but one is orange and one is white. There are also multiple flowers of each color: rows 4 and 6 include yellow flowers, one of which is a tulip and one of which is a sunflower. Some of these flowers are affected (1), while others are not (0). 
 
-We might be interested in how many flowers of each color are affected. To do this, we can use functions from the `dplyr` package to group by color and display how many of each color flower is affected: 
+We might be interested in how many flowers of each color are affected. To do this, we can use functions from the `dplyr` package to group by color and display how many of each color is affected: 
 ```
 # Install package if you haven't before
 install.packages("dplyr")
@@ -68,13 +68,13 @@ The `by_color` table includes the number of affected flowers per color:
 5 Yellow            9
 ```
 
-10 of the orange flowers are affected, 4 of the pink, etc. We can repeat the same thing for type of flower by changing the name of the column of interest from `color` to `flower`:
+10 of the orange flowers are affected, 4 of the pink, etc. A similar result is produced by changing `color` to `flower`: 
 ```
 by_flower <- sample_data %>%
     group_by(flower) %>%
     summarise(num_affected = sum(affected == 1))
 ```
-Again, we see the number of affected, this time shown by type of flower (7 daisies were affected, 7 lillies, etc.): 
+This time the number of affected plant is shown by type of flower (7 daisies were affected, 7 lillies, etc.): 
 ```
 > by_flower
 # A tibble: 5 × 2
@@ -87,7 +87,7 @@ Again, we see the number of affected, this time shown by type of flower (7 daisi
 5 Tulip                7
 ```
 
-In a case where you have multiple columns of descriptive data, it can help to define a function that takes the column of interest as an argument: 
+If there are multiple columns of descriptive data, it can help to define a function that takes the column of interest as an argument: 
 ```
 # Define function where our arguments are the input data 
 # And the column of interest
@@ -101,16 +101,16 @@ affected_by_column <- function(data, column_name) {
 output <- affected_by_column(sample_data, "flower")
 ```
 
-Running the above yields an error: 
+However, running the above yields an error: 
 ```
 Error in `group_by()`:
 ! Must group by variables found in `.data`.
 ✖ Column `column_name` is not found.
 ```
 
-The function is treating the variable `column_name` as if it were the name of the actual column in the data. But there is no column called "column_name"; the only three columns are "flower", "color", and "affected".
+The function is treating the variable `column_name` as if it were the name of the actual column in the data. But there is no column called "column_name"!
 
-To instead communicate to the function that we want to use the **variable** column_name (i.e., the  string value that is assigned to it), we redefine our function, placing `column_name` within double brackets, to use the "curly-curly" operator: 
+To instead have the function use the **variable** column_name (i.e., the string value that is assigned to it), you can redefine the function, using the `tidyverse` "curly-curly" operator by placing `column_name` within double brackets: 
 {% raw %}
 ```
 affected_by_column <- function(data, column_name) {
@@ -121,9 +121,9 @@ affected_by_column <- function(data, column_name) {
 ```
 {% endraw %}
 
-This allows the code to execute the `group_by` function on the value assigned to the variable `column_name`, rather than the string "column_name" itself. This syntax is a `tidyeval` helper; check out the details [here](https://ggplot2.tidyverse.org/reference/tidyeval.html#:~:text=The%20curly%2Dcurly%20operator%20%7B%7B,..%20in%20the%20normal%20way.).
+Here, the `group_by` function executes on the value assigned to the variable `column_name`, rather than the string "column_name" itself. This syntax is a `tidyeval` helper; check out the details [here](https://ggplot2.tidyverse.org/reference/tidyeval.html#:~:text=The%20curly%2Dcurly%20operator%20%7B%7B,..%20in%20the%20normal%20way.).
 
-If we then call our function as usual (`output <- affected_by_column(sample_data, "color")`, however, we get an unexpected result. We think we'll get the same outcome as the first example above: 10 orange, 4 pink, etc. However, if you view `output` in your console you'll instead see: 
+We anticipate calling the function as usual (`output <- affected_by_column(sample_data, "color")` will yield the same as the first example above: 10 orange, 4 pink, etc. However, `output` instead contains: 
 ```
 > output
 # A tibble: 1 × 2
@@ -132,24 +132,22 @@ If we then call our function as usual (`output <- affected_by_column(sample_data
 1 color               38
 ```
 
-It seems that now it's just counting all the rows that were affected. We can confirm this by manually counting the number of affected flowers, without using our function. This will tell us that there were 62 total flowers not affected, and 38 affected:  
-```
-table(sample_data$affected)
-```
+The function counted the affected flowers through all rows. We can confirm this by manually counting the number of affected flowers, without using our function: `table(sample_data$affected)` will show  62 total flowers not affected and 38 affected.
 
-Instead, we want our function to use the **name** of the column when counting the number of affected flowers. To do this, we modify how we call our function, to include the `as.name()` function: 
+To instead make the function use the **name** of the column, we modify how we call our function, using the `as.name()` function: 
 ```
 output <- affected_by_column(sample_data, !!as.name("color"))
 ```
-First, the `!!` operator is used for unquoting. Then the base R function `as.name()` function coerces its argument to a name. This allows it to be treated as a column name, rather than a string. 
+
+The base R `as.name()` function creates a symbol named "color" to represent the variable name. The unquote operator, `!!`, captures the value of "color" and passes it to the function call, allowing it to be treated as a column name, rather than a string. 
 
 This will also work if we define our variable `column_name` before we call the function: 
 ```
-column_name <- "flower"
+column_name <- "color"
 output <- affected_by_column(sample_data, !!as.name(column_name))
 ```
 
-Beyond manually defining our variable `column_name`, we have a ton of options for getting our column of interest. We can accept it as an argument passed to our script from the command line: 
+Beyond manually defining the variable `column_name`, there are multiple options for identifying the column of interest. It can be passed to the script from the command line: 
 ```
 # Get command line arguments
 args <- commandArgs(trailingOnly = TRUE)
@@ -158,11 +156,11 @@ args <- commandArgs(trailingOnly = TRUE)
 column_name <- args[1]
 ```
 
-Or, after reading in the data, we could get the column names directly from the dataframe itself. In this example, we know that `affected` is the last column. We therefore grab all column names except the last one: 
+The column names can also be identified directly from the dataframe itself. In this example, we know that `affected` is the last column. To grab all column names except the last one: 
 ```
 cols_of_interest <- names(sample_data)[-length(names(sample_data))]
 ```
-We can create an empty list to store our results and then call our function on each of these column names: 
+The function can then be called on each of the columns: 
 ```
 # Create empty list for results 
 output_list <- list()
@@ -173,7 +171,7 @@ for (i in cols_of_interest) {
     output_list[[i]] <- output
 }
 ```
-Our output will look like the below, where we have one tibble for each column in our original data: 
+The output will include one tibble for each column in the original data: 
 ```
 > output_list
 $flower
@@ -197,6 +195,4 @@ $color
 5 Yellow            9
 ```
 
-This combination of the `tidyeval` curly-curly {% raw %}{{  }}{% endraw %} operator along with the `!!as.name(variable)` syntax is useful for writing reproducible, reusable code for considering multiple columns of data while minimizing duplication. Additional wrappers (e.g., with `map()`) could be applied futher streamlining consideration of multiple variables. Happy coding! 
-
-
+This combination of the `tidyeval` curly-curly {% raw %}{{ {% endraw %} operator along with the `!!as.name(variable)` syntax is useful for considering multiple columns of data while minimizing code redundancy. Happy coding! 
