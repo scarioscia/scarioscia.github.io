@@ -3,7 +3,7 @@ layout: post
 title: Using dplyr with variable column names
 ---
 
-The `dplyr` [package](https://dplyr.tidyverse.org/) is extremely useful for data analysis and manipulation. The `group_by()` function is particularly useful for viewing, counting, and mutating data based on a given column. Sometimes it’s useful to investigate the data based on multiple columns that each describe the data - ideally using a variable defined as each column of interest. In `dplyr` we can leverage both base R and `tidyeval` to make this work.
+The `group_by()` function from the `dplyr` [package](https://dplyr.tidyverse.org/) is particularly helpful for viewing, counting, and mutating data based on a given column. Sometimes it’s useful to investigate the data based on multiple columns that each describe the data - ideally using a variable defined as each column of interest. In `dplyr`, we can leverage both base R and `tidyeval` to make this work.
 
 To try it, we create a sample dataframe that pairs flower types and colors. We'll randomly assign each of the plants as "affected" (1) or "unaffected" (0) by some condition. 
 ```
@@ -72,7 +72,7 @@ by_flower <- sample_data %>%
     group_by(flower) %>%
     summarise(num_affected = sum(affected == 1))
 ```
-This time the number of affected plant is shown by type of flower (7 daisies were affected, 7 lillies, etc.): 
+This time the number of affected plants is shown by type of flower (7 daisies were affected, 7 lillies, etc.): 
 ```
 > by_flower
 # A tibble: 5 × 2
