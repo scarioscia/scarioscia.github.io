@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Using arguments as column names in R tidyverse
+title: Using dplyr with variable column names
 ---
 
-The `dplyr` [package](https://dplyr.tidyverse.org/) is extremely useful for data analysis and manipulation. In particular, the `group_by()` function allows you to view, count, and mutate your data based on your column of interest. Sometimes it's useful to be able to consider multiple columns - like if you have two columns that each describe a trait of your data. Ideally, instead of hard-coding these column names, you could write code that uses a variable that you then define as each of your columns of interest. 
+The `dplyr` [package](https://dplyr.tidyverse.org/) is extremely useful for data analysis and manipulation. In particular, the `group_by()` function allows you to view, count, and mutate your data based on a column of interest. 
 
-To try this, we can create a sample dataframe. Here we'll make a list of flower types and a list of colors. Our dataframe will pair these flowers and colors. Then, we'll randomly assign each of the plants as "affected" (1) or "unaffected" (0) by some condition. 
+Sometimes it's useful to be able to investigate your data based on multiple columns that each describe a trait of your data - ideally using a variable defined as each column of interest. 
+
+To try this, we can create a sample dataframe that pairs flower types and colors. Then, we'll randomly assign each of the plants as "affected" (1) or "unaffected" (0) by some condition. 
 ```
 # Set seed for reproducibility 
 set.seed(123)
@@ -38,7 +40,7 @@ If we inspect our data with `head(sample_data)`, the console should display:
 6 Sunflower Yellow        1
 ```
 
-We can see that there are multiple colors of each flower: the first two rows are daisies, but one is orange and one is white. There are also multiple flowers of each color: rows 4 and 6 include yellow flowers, one of which is a tulip and one of which is a sunflower. We can also see that some of these flowers are affected (1), while others are not (0). 
+There are multiple colors of each flower: the first two rows are daisies, but one is orange and one is white. There are also multiple flowers of each color: rows 4 and 6 include yellow flowers, one of which is a tulip and one of which is a sunflower. Some of these flowers are affected (1), while others are not (0). 
 
 We might be interested in how many flowers of each color are affected. To do this, we can use functions from the `dplyr` package to group by color and display how many of each color flower is affected: 
 ```
@@ -53,7 +55,7 @@ by_color <- sample_data %>%
     group_by(color) %>%
     summarise(num_affected = sum(affected == 1))
 ```
-If we view our table by typing `by_color` we'll see: 
+The `by_color` table includes the number of affected flowers per color: 
 ```
 > by_color
 # A tibble: 5 × 2
@@ -66,14 +68,13 @@ If we view our table by typing `by_color` we'll see:
 5 Yellow            9
 ```
 
-We see 10 of the orange flowers are affected, 4 of the pink, etc. We can repeat the same thing for type of flower by changing the name of the column of interest from `color` to `flower`:
-
+10 of the orange flowers are affected, 4 of the pink, etc. We can repeat the same thing for type of flower by changing the name of the column of interest from `color` to `flower`:
 ```
 by_flower <- sample_data %>%
     group_by(flower) %>%
     summarise(num_affected = sum(affected == 1))
 ```
-If we view our table by typing `by_flower` we'll see: 
+Again, we see the number of affected, this time shown by type of flower (7 daisies were affected, 7 lillies, etc.): 
 ```
 > by_flower
 # A tibble: 5 × 2
@@ -85,10 +86,8 @@ If we view our table by typing `by_flower` we'll see:
 4 Sunflower            8
 5 Tulip                7
 ```
-Again, we see the number of affected, this time shown by type of flower (7 daisies were affected, 7 lillies were affected, etc.). 
 
-Let's imagine we have multiple columns of descriptive data - maybe in addition to flower and color, we have size, date planted, its source (farmer's market, store bought), its origin (whether it was a seed or a bulb), etc. We're interested in how many plants are affected, based on each of these categories. We might want to make a function that lets us investigate each of these descriptive variables by taking the column of interest as an argument: 
-
+In a case where you have multiple columns of descriptive data, it can help to define a function that takes the column of interest as an argument: 
 ```
 # Define function where our arguments are the input data 
 # And the column of interest
@@ -102,14 +101,14 @@ affected_by_column <- function(data, column_name) {
 output <- affected_by_column(sample_data, "flower")
 ```
 
-If you try to run this, you'll get an error: 
+Running the above yields an error: 
 ```
 Error in `group_by()`:
 ! Must group by variables found in `.data`.
 ✖ Column `column_name` is not found.
 ```
 
-The function is treating the variable `column_name` as if it were the name of the actual column in the data. There is no column called "column_name"; our only three columns are "flower", "color", and "affected".
+The function is treating the variable `column_name` as if it were the name of the actual column in the data. But there is no column called "column_name"; the only three columns are "flower", "color", and "affected".
 
 To instead communicate to the function that we want to use the **variable** column_name (i.e., the  string value that is assigned to it), we redefine our function, placing `column_name` within double brackets, to use the "curly-curly" operator: 
 {% raw %}
@@ -120,6 +119,8 @@ affected_by_column <- function(data, column_name) {
         summarise(num_affected = sum(affected == 1))
 }
 ```
+{% endraw %}
+
 This allows the code to execute the `group_by` function on the value assigned to the variable `column_name`, rather than the string "column_name" itself. This syntax is a `tidyeval` helper; check out the details [here](https://ggplot2.tidyverse.org/reference/tidyeval.html#:~:text=The%20curly%2Dcurly%20operator%20%7B%7B,..%20in%20the%20normal%20way.).
 
 If we then call our function as usual (`output <- affected_by_column(sample_data, "color")`, however, we get an unexpected result. We think we'll get the same outcome as the first example above: 10 orange, 4 pink, etc. However, if you view `output` in your console you'll instead see: 
