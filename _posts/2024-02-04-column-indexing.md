@@ -3,9 +3,7 @@ layout: post
 title: Using dplyr with variable column names
 ---
 
-The `dplyr` [package](https://dplyr.tidyverse.org/) is extremely useful for data analysis and manipulation. In particular, the `group_by()` function allows you to view, count, and mutate your data based on a column of interest. 
-
-Sometimes it's useful to be able to investigate your data based on multiple columns that each describe a trait of your data - ideally using a variable defined as each column of interest. 
+The `dplyr` [package](https://dplyr.tidyverse.org/) is extremely useful for data analysis and manipulation. The `group_by()` function is particularly useful for viewing, counting, and mutating data based on a given column. Sometimes it’s useful to be able to investigate the data based on multiple columns that each describe the data - ideally using a variable defined as each column of interest.
 
 To try this, we can create a sample dataframe that pairs flower types and colors. Then, we'll randomly assign each of the plants as "affected" (1) or "unaffected" (0) by some condition. 
 ```
