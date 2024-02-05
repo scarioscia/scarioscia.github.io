@@ -3,9 +3,9 @@ layout: post
 title: Using dplyr with variable column names
 ---
 
-The `dplyr` [package](https://dplyr.tidyverse.org/) is extremely useful for data analysis and manipulation. The `group_by()` function is particularly useful for viewing, counting, and mutating data based on a given column. Sometimes it’s useful to be able to investigate the data based on multiple columns that each describe the data - ideally using a variable defined as each column of interest.
+The `dplyr` [package](https://dplyr.tidyverse.org/) is extremely useful for data analysis and manipulation. The `group_by()` function is particularly useful for viewing, counting, and mutating data based on a given column. Sometimes it’s useful to investigate the data based on multiple columns that each describe the data - ideally using a variable defined as each column of interest. In `dplyr` we can leverage both base R and `tidyeval` to make this work.
 
-To try this, we can create a sample dataframe that pairs flower types and colors. Then, we'll randomly assign each of the plants as "affected" (1) or "unaffected" (0) by some condition. 
+To try it, we create a sample dataframe that pairs flower types and colors. We'll randomly assign each of the plants as "affected" (1) or "unaffected" (0) by some condition. 
 ```
 # Set seed for reproducibility 
 set.seed(123)
@@ -108,7 +108,7 @@ Error in `group_by()`:
 
 The function is treating the variable `column_name` as if it were the name of the actual column in the data. But there is no column called "column_name"!
 
-To instead have the function use the **variable** column_name (i.e., the string value that is assigned to it), you can redefine the function, using the `tidyverse` "curly-curly" operator by placing `column_name` within double brackets: 
+To instead use the **variable** column_name (i.e., the string value that is assigned to it), you can redefine the function, placing `column_name` within curly brackets to use the `tidyverse` {% raw %}{{ {% endraw %} operator: 
 {% raw %}
 ```
 affected_by_column <- function(data, column_name) {
