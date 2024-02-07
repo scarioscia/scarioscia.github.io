@@ -66,7 +66,7 @@ The `by_color` table includes the number of affected flowers per color:
 5 Yellow            9
 ```
 
-10 of the orange flowers are affected, 4 of the pink, etc. A similar result is produced by changing `color` to `flower`: 
+10 orange flowers are affected, 4 pink, etc. A similar result is produced by investigating the `flower` column: 
 ```
 by_flower <- sample_data %>%
     group_by(flower) %>%
@@ -95,7 +95,7 @@ affected_by_column <- function(data, column_name) {
         summarise(num_affected = sum(affected == 1))
 }
 
-# Call your function (for example, on the flower column):
+# Call the function on a given column name
 output <- affected_by_column(sample_data, "flower")
 ```
 
@@ -121,7 +121,7 @@ affected_by_column <- function(data, column_name) {
 
 Here, the `group_by` function executes on the value assigned to the variable `column_name`, rather than the string "column_name" itself. This syntax is a `tidyeval` helper; check out the details [here](https://ggplot2.tidyverse.org/reference/tidyeval.html#:~:text=The%20curly%2Dcurly%20operator%20%7B%7B,..%20in%20the%20normal%20way.).
 
-We anticipate calling the function as usual (`output <- affected_by_column(sample_data, "color")` will yield the same as the first example above: 10 orange, 4 pink, etc. However, `output` instead contains: 
+We anticipate calling the function as usual (`output <- affected_by_column(sample_data, "color")`) will produce the same output as the first example above: 10 orange, 4 pink, etc. However, `output` instead contains: 
 ```
 > output
 # A tibble: 1 × 2
@@ -132,7 +132,7 @@ We anticipate calling the function as usual (`output <- affected_by_column(sampl
 
 The function counted the affected flowers through all rows. We can confirm this by manually counting the number of affected flowers, without using our function: `table(sample_data$affected)` will show  62 total flowers not affected and 38 affected.
 
-To instead make the function use the **name** of the column, we modify how we call our function, using the `as.name()` function: 
+To instead make the function use the **name** of the column, we modify how we call our function, using `as.name()`: 
 ```
 output <- affected_by_column(sample_data, !!as.name("color"))
 ```
