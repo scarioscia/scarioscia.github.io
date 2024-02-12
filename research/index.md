@@ -14,7 +14,8 @@ See our paper **[here](https://doi.org/10.7554/eLife.76383)** and our code **[he
 {% include image.html url="../images/research_images/td_pipeline_schematic.jpg" height="250px" align="center" %}
 
 
-
+<br>
+<br>
 
 ### rhapsodi: an R package to impute sparsely sequenced haploid genomes 
 The recent development of high-throughput single-cell genome sequencing of human sperm (termed "Sperm-seq") offers an opportunity to study various aspects of meiosis and inheritance with improved statistical power. However, the low sequencing coverage per cell (0.01x) necessitates the development of tailored statistical methods for recovering gamete genotypes.
@@ -24,7 +25,8 @@ To this end, we developed a method called rhapsodi (R haploid sperm/oocyte data 
 {% include image.html url="../images/research_images/rhapsodi_schematic.jpg" height="250px" align="center" %}
 
 
-
+<br>
+<br>
 
 ### Science Policy
 
