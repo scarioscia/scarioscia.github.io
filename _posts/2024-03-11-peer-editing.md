@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Growth through peer editing: a hands-on seminar  
+title: A hands-on seminar for peer editing
 ---
 
 In research and writing of any kind, the process of peer editing can play a role in refining ideas, strengthening arguments, and enhancing overall quality. Some of the classes I've taken in grad school have included peer editing as part of the assignment structure - offering students training in providing and using constructive feedback. 
