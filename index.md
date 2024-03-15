@@ -2,7 +2,7 @@
 layout: about
 ---
 
-I’m a [National Science Foundation Graduate Research Fellow](https://nsfgrfp.org/) and PhD Candidate in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University. I'm advised by [Rajiv McCoy](https://mccoy-lab.org/) and am broadly interested in human genomics and evolution. My thesis explores bias, dispersion, and error in human development. Currently I'm using data from IVF embryos to investigate genetic contributors to human fertility phenotypes.
+I’m a [National Science Foundation Graduate Research Fellow](https://nsfgrfp.org/) and PhD Candidate in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University. I'm advised by [Rajiv McCoy](https://mccoy-lab.org/) and am broadly interested in human genomics and evolution - and especially genetic conflict at all levels. My thesis explores bias, dispersion, and error in human development. Currently I'm using data from IVF embryos to investigate genetic contributors to human fertility phenotypes.
 
 I majored in Biology and Classics at Georgetown University, where I conducted theoretical evolution research with [Manus Patten](https://www.pattenlab.com/). I then spent two years as a Science Policy Fellow at the [Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute) (STPI), working on technical and regulatory [projects](https://scarioscia.github.io/2023-01-25/science-policy) for Executive Branch agencies including the NIH and NASA.
 
