@@ -39,12 +39,12 @@ For the last three years I've hosted a workshop on peer editing for the Biology 
 
 ### Teaching Assistant Orientation 
 
-I had the opportunity to co-lead an orientation session for new TAs (usually first- or second-year PhD students) at Johns Hopkins alongside [Alex Gittens](https://www.linkedin.com/in/alexgittens/), a Chemistry PhD student, in Fall 2021 and Spring 2022. We covered topics including TA-ing as part of your training, managing the relationship with the professor in charge of the course, and grading, among other things. See highlights [here](https://scarioscia.github.io/2024-01-18/TA-orientation).
+I had the opportunity to co-lead an orientation session for new TAs (usually first- or second-year PhD students) at Johns Hopkins alongside [Alex Gittens](https://www.linkedin.com/in/alexgittens/), a Chemistry PhD student, in Fall 2021 and Spring 2022. We covered topics including TA-ing as part of your training, managing the relationship with the professor in charge of the course, and grading, among other things. See highlights **[here](https://scarioscia.github.io/2024-01-18/TA-orientation)**.
 
 
 ### Georgetown University Writing Center
 
-I worked as a tutor for three years as an undergraduate. I offered one-on-one sessions ranging from 30-60 minutes, working with undergraduate and graduate students on all steps of the writing process - from brainstorming, outlining, and drafting to review and editing. I especially focused on scientific writing. 
+I loved writing in college, and I was nominated by a couple of professors to apply to work in the Writing Center. Our training included shadowing experienced tutors in their appointments as well as completing a 4-credit class, "Approaches to Composition". It was one of my favorite classes in college - we learned about pedagogy, practiced writing, and got a ton of work peer editing. I worked as a tutor for three years as an undergraduate. I offered one-on-one sessions ranging from 30-60 minutes, working with undergraduate and graduate students on all steps of the writing process - from brainstorming, outlining, and drafting to review and editing. I especially focused on scientific writing. I was later Director of Partnerships for the Center - helping organize clinics across campus (Career Center, Graduate School of Arts and Sciences, Biology Department) where students outside our typical clients could work with tutors and experience collaborative writing. 
 
 <br />
 
