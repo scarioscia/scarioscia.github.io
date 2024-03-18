@@ -35,7 +35,7 @@ In January 2023 I completed Johns Hopkins' [Certificate of Completion](https://c
 
 ### Communicating Science 
 
-For the last three years I've hosted a workshop on peer editing for the Biology Department's Communicating Science course (`AS.020.619`) for PhD students. Students gave feedback on a peer's Specific Aims (following the convention of the NIH's F31 grant application). The class then discussed the feedback they gave and received, outlining what worked and why. Students do one more swap, applying what they just learned. They then review one more set of Specific Aims for their homework that week. See a detailed breakdown of that workshop (and the rationale for peer editing), along with downloadable sample slides **[here](https://drive.google.com/file/d/1KVz10cekga2QBHQQ-ArDTAg5UCpUzb5F/view?usp=sharing)**. 
+For the last three years I've hosted a workshop on peer editing for the Biology Department's Communicating Science course (`AS.020.619`) for PhD students. Students gave feedback on a peer's Specific Aims (following the convention of the NIH's F31 grant application). The class then discussed the feedback they gave and received, outlining what worked and why. Students do one more swap, applying what they just learned. They then review one more set of Specific Aims for their homework that week. See a detailed breakdown of that workshop (and the rationale for peer editing), along with downloadable sample slides **[here](https://scarioscia.github.io/2024-03-18/peer-editing)**. 
 
 ### Teaching Assistant Orientation 
 
