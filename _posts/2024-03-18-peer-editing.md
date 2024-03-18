@@ -32,7 +32,7 @@ We also outline the benefits to both participants:
 - Empathetic feedback (improve emotional IQ!) 
 
 
-## Practical Application
+## Practical application
 
 To facilitate hands-on learning, participants swap assignments and spend 5-7 minutes reviewing the work and offering feedback. Emphasizing specificity in their suggestions, we encourage participants to pinpoint areas for improvement while offering practical opportunities for enhancement. 
 
@@ -41,7 +41,7 @@ Following this exercise, the instructor can prompt students to share aloud feedb
 As a visual aid, and if time allows, it can be helpful to display a single paragraph from a similar assignment's draft on the board (e.g., an example written by the instructor ahead of time). The group can live-edit the document together, discussing the thought process behind each edit and highlighting the rationale behind suggested changes. Integrating insights from the previous round of editing, we ensure that each comment serves the writer's intended purpose, reinforcing the importance of aligning feedback with the document's goals.
 
 
-## Iterative Learning
+## Iterative learning
 
 Building on this (and with the best practices and tips displayed on on the board), participants engage in a second round of peer editing, this time with different partners. This can help reinforce learning and foster a classroom culture of continuous improvement and collaboration. 
 
