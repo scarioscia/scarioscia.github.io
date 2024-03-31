@@ -26,8 +26,8 @@ title: Research
 <div class="icon-container">
   <!-- Icon for Transmission Distortion -->
   <div class="icon">
-    <a href="transmission_distortion.md">
-      <img src="path_to_transmission_distortion_icon" alt="Transmission Distortion Icon" />
+    <a href="td-sperm.md">
+      <img src="../images/research_images/td_pipeline_schematic.jpg" alt="Transmission Distortion Icon" />
     </a>
     <h3>Transmission Distortion</h3>
     <p>Mendel's Law of Segregation</p>
@@ -36,7 +36,7 @@ title: Research
   <!-- Icon for Rhapsodi -->
   <div class="icon">
     <a href="rhapsodi.md">
-      <img src="path_to_rhapsodi_icon" alt="Rhapsodi Icon" />
+      <img src="../images/research_images/rhapsodi_schematic.jpg" alt="Rhapsodi Icon" />
     </a>
     <h3>Rhapsodi</h3>
     <p>Impute Sparsely Sequenced Haploid Genomes</p>
