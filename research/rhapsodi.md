@@ -1,7 +1,3 @@
----
-layout: post
-title: rhapsodi
----
 
 ### rhapsodi: an R package to impute sparsely sequenced haploid genomes 
 The recent development of high-throughput single-cell genome sequencing of human sperm (termed "Sperm-seq") offers an 
