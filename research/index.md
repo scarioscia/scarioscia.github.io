@@ -11,7 +11,7 @@ Project 1 Description
 #### Project 2
 Project 2 Description
 
-[![rhapsodi](../images/research_images/SSA.png)](../research_projects/#project3)
-#### Project 1
-Project 2 Description
+[![sci pol](../images/research_images/SSA.png)](../research_projects/#project3)
+#### Project 3
+Project 3 Description
 
