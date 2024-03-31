@@ -5,7 +5,7 @@ title: Research
 
 
 <!-- Icon for Testing for transmission distortion -->
-<a href="/Users/saracarioscia/scarioscia.github.io/research/rhapsodi.md">
+<a href="rhapsodi.md">
   <img src="../images/research_images/rhapsodi_schematic.jpg" alt="rhapsodi Icon" />
 </a>
 
