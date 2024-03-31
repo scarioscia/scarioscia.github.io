@@ -26,7 +26,7 @@ title: Research
 <div class="icon-container">
   <!-- Icon for Transmission Distortion -->
   <div class="icon">
-    <a href="td-sperm.md">
+    <a href="tdsperm.md">
       <img src="../images/research_images/td_pipeline_schematic.jpg" alt="Transmission Distortion Icon" />
     </a>
     <h3>Transmission Distortion</h3>
