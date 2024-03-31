@@ -37,7 +37,9 @@ title: Research
         <a href="../research_projects/#project1">
             <img src="../images/research_images/td_pipeline_schematic.jpg" alt="Transmission Distortion">
         </a>
-        <div class="icon-caption">We searched for single-site and genome-wide transmission distortion across a large sample (>40,000) of single-cell sperm DNA from 25 donors.</div>
+        <div class="icon-caption">Biased transmission of alleles among gametes has been identified in many species. I searched for such bias in a large sample (>40,000) of single-cell sperm DNA from 25 donors.</div>
+        <div class="icon-title">Transmission distortion in human sperm</div>
+    </div>
     </div>
 
     <div class="icon">
