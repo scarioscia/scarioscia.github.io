@@ -13,4 +13,5 @@ From 2017 to 2019, I worked as a Science Policy Fellow at the Institute for Defe
 - A **[review](https://www.ida.org/research-and-publications/publications/all/t/to/towards-the-development-of-a-national-planetary-protection-policy)** of planetary protection policies and approaches, as well as a summary of U.S. and international laws, regulations, policies and practices governing planetary protection
 - Early research on trends in the on-orbit servicing, assembly, and manufacturing of space technologies, including a White House-convened **[summit](https://www.ida.org/-/media/feature/publications/r/ro/roundtable-proceedings-ways-forward-for-on-orbit-servicing/d-10445.ashx)** 
 - A review of laws and regulations governing exports of space technologies and how they are implemented, including International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR) 
+- An **[analysis](https://www.ida.org/research-and-publications/publications/all/g/gl/global-trends-in-space-situational-awareness-ssa-and-space-traffic-management-stm)** of space situational awareness (SSA) technologies and space traffic management (STM) policies across 18 countries
 
