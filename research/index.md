@@ -3,14 +3,15 @@ layout: post
 title: Research
 ---
 
-[![rhapsodi](../images/research_images/rhapsodi_schematic.jpg)](../research_projects/#project1)
+[![Transmission Distortion](../images/research_images/td_pipeline_schematic.jpg)](../research_projects/#project1)
 #### Project 1
 Project 1 Description
 
-[![Project 2](../path/to/project2_icon.png)](research.md#project2)
+[![rhapsodi](../images/research_images/rhapsodi_schematic.jpg)](../research_projects/#project2)
 #### Project 2
 Project 2 Description
 
-[![Project 3](../path/to/project3_icon.png)](research.md#project3)
-#### Project 3
-Project 3 Description
+[![rhapsodi](../images/research_images/SSA.png)](../research_projects/#project3)
+#### Project 1
+Project 2 Description
+
