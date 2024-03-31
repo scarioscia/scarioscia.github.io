@@ -1,4 +1,9 @@
 
+---
+layout: post
+title: Research Project 1
+---
+
 ### rhapsodi: an R package to impute sparsely sequenced haploid genomes 
 The recent development of high-throughput single-cell genome sequencing of human sperm (termed "Sperm-seq") offers an 
 opportunity to study various aspects of meiosis and inheritance with improved statistical power. However, the low 
