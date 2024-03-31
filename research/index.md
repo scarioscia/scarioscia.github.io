@@ -3,7 +3,7 @@ layout: post
 title: Research
 ---
 
-[![rhapsodi](../images/research_images/rhapsodi_schematic.jpg)](../research_projects/research.md#project1)
+[![rhapsodi](../images/research_images/rhapsodi_schematic.jpg)](../research_projects/#project1)
 #### Project 1
 Project 1 Description
 
