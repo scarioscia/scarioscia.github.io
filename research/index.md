@@ -4,6 +4,11 @@ title: Research
 ---
 
 
+<!-- Icon for Testing for transmission distortion -->
+<a href="/Users/saracarioscia/scarioscia.github.io/research/rhapsodi.md">
+  <img src="../images/research_images/rhapsodi_schematic.jpg" alt="rhapsodi Icon" />
+</a>
+
 ### Testing for transmission distortion in a large sample of human sperm genomes
 Mendel’s Law of Segregation states that the offspring of a diploid, heterozygous parent will inherit either allele with equal probability. While the vast majority of loci adhere to this rule, research in model and non-model organisms has uncovered numerous exceptions whereby “selfish” alleles are disproportionately transmitted to the next generation. Evidence of such transmission distortion (TD) in humans remains equivocal in part due to statistical and sample size limitations of past studies.
 
