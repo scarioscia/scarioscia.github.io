@@ -20,7 +20,7 @@ title: Research
     }
 
     .icon img {
-        max-width: 100%;
+        width: 100%;
         height: auto;
         border-radius: 8px; /* Add border radius for rounded corners */
     }
@@ -28,6 +28,8 @@ title: Research
     .icon-caption {
         font-size: 14px; /* Adjust font size for captions */
     }
+
+
 </style>
 
 <div class="icon-container">
