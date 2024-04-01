@@ -55,9 +55,9 @@ title: Research
     </div>
     <div class="icon">
         <a href="../research_projects/#project4">
-            <img src="../images/research_images/your_project_image.jpg" alt="Your Project">
+            <img src="../images/research_images/image.jpg" alt="">
         </a>
-        <div class="icon-title">Your Project Title</div>
-        <div class="icon-caption">Description of your project.</div>
+        <div class="icon-title"></div>
+        <div class="icon-caption"></div>
     </div>
 </div>
