@@ -3,20 +3,17 @@ layout: post
 title: Research
 ---
 
-
 <style>
     .icon-container {
-        display: flex;
-        justify-content: space-around;
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
         max-width: 800px; /* Adjust maximum width as needed */
         margin: 0 auto; /* Center the container */
     }
 
     .icon {
-        width: 200px; /* Adjust width as needed */
-        text-align: center;
-        margin-bottom: 20px; /* Adjust spacing between icons */
+        text-align: left;
     }
 
     .icon img {
@@ -29,7 +26,9 @@ title: Research
         font-size: 14px; /* Adjust font size for captions */
     }
 
-
+    .icon-title {
+        font-weight: bold;
+    }
 </style>
 
 <div class="icon-container">
@@ -53,5 +52,12 @@ title: Research
         </a>
         <div class="icon-title">Exploring science policy at the intersection of research and government</div>
         <div class="icon-caption">From 2017 to 2019, I worked as a Science Policy Fellow, engaging in projects including evaluating NASA's Mars mission roadmap, assessing supersonic commercial aircraft feasibility, and reviewing laws governing space technology exports.</div>
+    </div>
+    <div class="icon">
+        <a href="../research_projects/#project4">
+            <img src="../images/research_images/your_project_image.jpg" alt="Your Project">
+        </a>
+        <div class="icon-title">Your Project Title</div>
+        <div class="icon-caption">Description of your project.</div>
     </div>
 </div>
