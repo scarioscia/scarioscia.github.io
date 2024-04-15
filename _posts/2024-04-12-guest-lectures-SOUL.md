@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Guest Lectures as a source of information -- and fun 
+title: Leveraging guest lectures in course design
 ---
 
 In our  "Population Genetics Simulation and Visualization" [course](https://scarioscia.github.io/teaching/), [Andrew](https://andrew-bortvin.github.io/) and I adopted the following structure: 
@@ -13,7 +13,7 @@ As expected, students really enjoyed the live-coding and appreciated the chance 
 But I was surprised by how much the students enjoyed and absorbed the guest lectures! Multiple students shared in the course evaluations that the guest lectures introduced them to research careers and science outside the classroom. They also said they enjoyed connecting their work from our course and others with bigger scientific questions. These guests offered additional insights and contacts to our students and helped them see the bigger picture behind many of our in-class lessons.
 
 Our guests were: 
-- [Stephanie Yan](https://stephaniemyan.github.io/), a PhD student in Rajiv McCoy's lab who shared her work investigating selection vs. drift in a case of archaic introgression 
+- [Stephanie Yan](https://stephaniemyan.github.io/), a PhD student who shared her work investigating selection vs. drift in a case of archaic introgression 
 - [Arjun Biddanda](https://aabiddanda.github.io/), a postdoc who introduced the students to human population structure 
-- [Michael Tassia](https://mtassia.github.io/), a postdoc who discussed how computational biology allowed him to investigate the genomes of non-model organisms. He also wowed the students with his photos and videos from his expedition to Antarctica. 
+- [Michael Tassia](https://mtassia.github.io/), a postdoc who discussed how computational biology allowed him to investigate the genomes of non-model organisms. He also wowed the students with his photos and videos from his expedition to Antarctica
 
