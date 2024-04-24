@@ -10,5 +10,5 @@ Outside of research, I'm an avid cyclist. I compete with the Hopkins cycling tea
 
 I'm a member of the Board of Directors of the [Friends of the Mount Vernon Trail](https://mountvernontrail.org/), where I support program planning and partnerships to maintain and improve the trail, along with the National Park Service. I'm also a member of the Board of Directors for the [Rosslyn Business Improvement District](https://www.rosslynva.org/) (BID) in Arlington, VA, where I contribute to projects supporting transportation, signage, and outdoor spaces in the region. 
 
-Here's a **[link](https://drive.google.com/uc?id=1wMneEbC6lutKD0NYf3cfNyrvk4FuYWOI&export=download)** to my CV and a **[link](https://drive.google.com/uc?id=1cY62B3fOKW-HRIgUiKXbenJIn8dud7Mc&export=download)** to my resume.
+Here's a **[link](https://drive.google.com/uc?id=198WB0KjlmfxV1-BjVUUEcja_K7ohCQk8&export=download)** to my CV and a **[link](https://drive.google.com/uc?id=1cY62B3fOKW-HRIgUiKXbenJIn8dud7Mc&export=download)** to my resume.
 
