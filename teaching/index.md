@@ -33,13 +33,17 @@ In Fall 2020 and Spring 2021, I was a Teaching Assistant for the Biology Departm
 
 In January 2023 I completed Johns Hopkins' [Certificate of Completion](https://ctei.jhu.edu/teaching-academy/coc), through which I pursued extensive training in pedagogy and evidence-based teaching practices, course design, and assessment. My favorite sessions have been a three-part course on Ungrading, where we learned and discussed effective means of giving feedback to students, beyond assigning a number. I also enjoyed the three-day [Teaching Institute](https://ctei.jhu.edu/teaching-academy/ti), especially the sections on assessment, active learning, and course planning. I am pursuing further teaching training through workshops offered by the Center for the Integration of Research, Teaching, and Learning [(CIRTL)](https://www.cirtl.net/) and the JHU Center for Teaching Excellence & Innovation [(CTEI)](https://ctei.jhu.edu/).
 
+### Teaching Institute 
+
+In 2023 and 2024 I was a facilitator for groups of 5-10 PhD students and postdocs from Hopkins and other universities through the three-day [Teaching Institute](https://ctei.jhu.edu/teaching-academy/ti) at Johns Hopkins. In this role, I offered guidance on student course design proposals, collected and shared feedback from other group members on each participant's presentation, and supported their design of an inclusive, detailed course syllabus and example day of instruction.
+
 ### Communicating Science 
 
 For the last three years I've hosted a workshop on peer editing for the Biology Department's Communicating Science course (`AS.020.619`) for PhD students. Students gave feedback on a peer's Specific Aims (following the convention of the NIH's F31 grant application). The class then discussed the feedback they gave and received, outlining what worked and why. Students do one more swap, applying what they just learned. They then review one more set of Specific Aims for their homework that week. See a detailed breakdown of that workshop (and the rationale for peer editing), along with downloadable sample slides **[here](https://scarioscia.github.io/2024-03-18/peer-editing)**. 
 
 ### Teaching Assistant Orientation 
 
-I had the opportunity to co-lead an orientation session for new TAs (usually first- or second-year PhD students) at Johns Hopkins alongside [Alex Gittens](https://www.linkedin.com/in/alexgittens/), a Chemistry PhD student, in Fall 2021 and Spring 2022. We covered topics including TA-ing as part of your training, managing the relationship with the professor in charge of the course, and grading, among other things. See highlights **[here](https://scarioscia.github.io/2024-01-18/TA-orientation)**.
+I had the opportunity to lead an orientation session for new TAs (usually first- or second-year PhD students) at Johns Hopkins alongside [Alex Gittens](https://www.linkedin.com/in/alexgittens/), a Chemistry PhD student, in Fall 2021 and Spring 2022. We covered topics including TA-ing as part of your training, managing the relationship with the professor in charge of the course, and grading, among other things. See highlights **[here](https://scarioscia.github.io/2024-01-18/TA-orientation)**.
 
 
 ### Georgetown University Writing Center
