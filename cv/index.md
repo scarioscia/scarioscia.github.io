@@ -2,7 +2,9 @@
 layout: post
 title: CV
 ---
-You can download my current CV **[here]()** and my resume **[here]()**. If you'd like to contact me, please reach out via email! 
+You can download my current CV **[here]()** and my resume **[here]()**. 
+
+If you'd like to contact me, please reach out via email! 
 
 <!-- CV -->
 <section class="bg-light page-section" id="cv">
@@ -16,8 +18,8 @@ You can download my current CV **[here]()** and my resume **[here]()**. If you'd
     <br>
     <div class="row justify-content-md-center">
       <div class="col">
-        <object data="carioscia_cv.pdf?#zoom=100&scrollbar=0&toolbar=0&navpanes=0" width="100%" height="1000" type="application/pdf">
-          <iframe sandbox="allow-scripts allow-same-origin" src="carioscia_cv.pdf" width="100%" height="500" frameborder="0" seamless="">
+        <object data="carioscia_cv.pdf?#zoom=100&scrollbar=0&toolbar=0&navpanes=0" width="120%" height="1000" type="application/pdf">
+          <iframe sandbox="allow-scripts allow-same-origin" src="carioscia_cv.pdf" width="120%" height="500" frameborder="0" seamless="">
             <p>PDF cannot be displayed. Please see download link above.</p>
           </iframe>
         </object>
