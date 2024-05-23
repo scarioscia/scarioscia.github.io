@@ -18,8 +18,8 @@ If you'd like to contact me, please reach out via email!
     <br>
     <div class="row justify-content-md-center">
       <div class="col">
-        <object data="carioscia_cv.pdf?#zoom=100&scrollbar=0&toolbar=0&navpanes=0" width="120%" height="1000" type="application/pdf">
-          <iframe sandbox="allow-scripts allow-same-origin" src="carioscia_cv.pdf" width="120%" height="500" frameborder="0" seamless="">
+        <object data="carioscia_cv.pdf?#zoom=100&scrollbar=0&toolbar=0&navpanes=0" width="150%" height="1000" type="application/pdf">
+          <iframe sandbox="allow-scripts allow-same-origin" src="carioscia_cv.pdf" width="150%" height="500" frameborder="0" seamless="">
             <p>PDF cannot be displayed. Please see download link above.</p>
           </iframe>
         </object>
