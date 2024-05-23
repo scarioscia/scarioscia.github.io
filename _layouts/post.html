@@ -2,28 +2,31 @@
 layout: base 
 ---
 
-<div class="post">
-  <h2 class="post-title">{{ page.title }}</h2>
-  <div class="post-line"></div>
+<div class="post-container">
+  <div class="post">
+    <h2 class="post-title">{{ page.title }}</h2>
+    <div class="post-line"></div>
 
-  {{ content }}
+    {{ content }}
 
-</div>
+  </div>
 
-<div class="pagination">
-  {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left next">Prev</a>
-  {% endif %}
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right next">Next</a>
-  {% endif %}
+  <div class="pagination">
+    {% if page.next.url %}
+      <a href="{{ page.next.url | prepend: site.baseurl }}" class="left next">Prev</a>
+    {% endif %}
+    {% if page.previous.url %}
+      <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right next">Next</a>
+    {% endif %}
 
-  <a href="#" class="top">Top</a>
-</div>
-<div class="social-layer">
-      <div class="social-icons">
-        <ul>
-          {% include icons.html %}
-        </ul>
-      </div>
+    <a href="#" class="top">Top</a>
+  </div>
+  
+  <div class="social-layer">
+    <div class="social-icons">
+      <ul>
+        {% include icons.html %}
+      </ul>
     </div>
+  </div>
+</div>
