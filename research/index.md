@@ -4,6 +4,12 @@ title: Research
 ---
 
 <style>
+    .main-container {
+        max-width: 100%; /* Adjust maximum width as needed */
+        margin: 0 auto; /* Center the container */
+        padding: 20px; /* Optional: Add padding for better appearance */
+    }
+
     .icon-container {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
