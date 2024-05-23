@@ -42,4 +42,5 @@ title: Research
 ### Science Policy  {#project4}
 <div class="research-section">
     <p>From 2017 to 2019, I worked as a Science Policy Fellow at the <a href="https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute">Science and Technology Policy Institute</a> (STPI), a federally-funded research and development center in Washington, DC. STPI receives funding from the NSF to conduct research and projects for the White House Office of Science and Technology Policy (OSTP). STPI also contracts with government agencies across the Executive Branch to offer science and technology analysis. These projects generally included research and literature review, interviews, and some project-specific analyses, followed by briefings, conference presentations, and formal publications. Check out some details about my work <a href="https://scarioscia.github.io/2023-01-25/science-policy">here</a>.</p>
+    <p>{% include image.html url="../images/research_images/SSA.png" height="250px" align="center" %}</p>
 </div>
