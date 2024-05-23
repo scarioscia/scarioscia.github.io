@@ -57,7 +57,7 @@ title: Research
             <img src="../images/research_images/SSA.png" alt="Science Policy">
         </a>
         <div class="icon-title">Exploring science policy at the intersection of research and government</div>
-        <div class="icon-caption">From 2017 to 2019, I worked as a Science Policy Fellow, engaging in projects including evaluating NASA's Mars mission roadmap, assessing supersonic commercial aircraft feasibility, and reviewing laws governing space technology exports.</div>
+        <div class="icon-caption">Prior to graduate school, I worked as a Science Policy Fellow, engaging in projects including evaluating NASA's Mars mission roadmap, assessing supersonic commercial aircraft feasibility, and reviewing laws governing space technology exports.</div>
     </div>
     <div class="icon">
         <a href="../research_projects/#project4">
