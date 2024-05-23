@@ -40,30 +40,30 @@ title: Research
 <div class="icon-container">
     <div class="icon">
         <a href="../research_projects/#project1">
+            <img src="../images/research_images/embryo_arrest.jpg" alt="">
+        </a>
+        <div class="icon-title">Quantifying aneuploidy in human IVF embryos</div>
+        <div class="icon-caption">Aneuploidy is the largest contributor to pregnancy loss. I am investigating patterns of these whole-chromosome gains and losses across a sample of day-5 IVF embryos.</div>
+    </div>
+    <div class="icon">
+        <a href="../research_projects/#project2">
             <img src="../images/research_images/td_pipeline_schematic.jpg" alt="Transmission Distortion">
         </a>
         <div class="icon-title">Transmission distortion in human sperm</div>
         <div class="icon-caption">Biased transmission of alleles among gametes has been identified in many species. I searched for such bias in a large sample (>40,000) of single-cell sperm DNA from 25 donors.</div>
     </div>
     <div class="icon">
-        <a href="../research_projects/#project2">
+        <a href="../research_projects/#project3">
             <img src="../images/research_images/rhapsodi_schematic.jpg" alt="rhapsodi">
         </a>
         <div class="icon-title">R package for imputing sparsely-sequenced haploid gametes</div>
         <div class="icon-caption"> Using very low-coverage single-cell DNA sequencing data of gametes originating from a single diploid donor, rhapsodi (1) phases the diploid donor haplotypes, (2) imputes missing gamete genotypes, and (3) discovers gamete-specific meiotic recombination events.</div>
     </div>
     <div class="icon">
-        <a href="../research_projects/#project3">
+        <a href="../research_projects/#project4">
             <img src="../images/research_images/SSA.png" alt="Science Policy">
         </a>
         <div class="icon-title">Exploring science policy at the intersection of research and government</div>
         <div class="icon-caption">Prior to graduate school, I worked as a Science Policy Fellow, engaging in projects including evaluating NASA's Mars mission roadmap, assessing supersonic commercial aircraft feasibility, and reviewing laws governing space technology exports.</div>
-    </div>
-    <div class="icon">
-        <a href="../research_projects/#project4">
-            <img src="../images/research_images/image.jpg" alt="">
-        </a>
-        <div class="icon-title"></div>
-        <div class="icon-caption"></div>
     </div>
 </div>
