@@ -5,7 +5,7 @@ title: Research
 
 <style>
     .main-container {
-        max-width: 150%; /* Adjust maximum width as needed */
+        max-width: 160%; /* Adjust maximum width as needed */
         margin: 0 auto; /* Center the container */
         padding: 30px; /* Optional: Add padding for better appearance */
     }
@@ -13,7 +13,7 @@ title: Research
     .icon-container {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        gap: 20px;
+        column-gap: 40px;
         row-gap: 75px; /* Adjust the space between rows */
         max-width: 800px; /* Adjust maximum width as needed */
         margin: 0 auto; /* Center the container */
