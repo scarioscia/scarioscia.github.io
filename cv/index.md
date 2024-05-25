@@ -2,9 +2,14 @@
 layout: post
 title: CV
 ---
-You can download my current CV **[here](https://github.com/scarioscia/scarioscia.github.io/blob/master/cv/carioscia_cv.pdf)** and resume **[here](https://github.com/scarioscia/scarioscia.github.io/blob/master/cv/carioscia_resume.pdf)**. 
+You can download my current CV **[here](https://github.com/scarioscia/scarioscia.github.io/blob/master/cv/carioscia_cv.pdf)** and resume **[here](https://github.com/scarioscia/scarioscia.github.io/blob/master/cv/carioscia_resume.pdf)**. If you'd like to contact me, please reach out via email! 
 
-If you'd like to contact me, please reach out via email! 
+<style>
+  .page-section {
+    padding-top: 50px; /* Adjust this value to increase or decrease the space */
+    padding-bottom: 50px; /* Adjust this value to increase or decrease the space */
+  }
+</style>
 
 <!-- CV -->
 <section class="bg-light page-section" id="cv">
