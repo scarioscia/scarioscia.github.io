@@ -20,7 +20,7 @@ In September 2023, I was a Teaching Assistant for the Quantitative Biology Bootc
 
 ### Quantitative Biology 
 
-In Fall 2021, I was a Teaching Assistant for the Quantitative Biology (`AS.020.617`) course offered to first-year graduate students in the Cell, Molecular, Developmental Biology and Biophysics PhD program. Students develop their own implementations of widely-used computational biology tools (primarily using Python and Bash) for essential studies including assembly of genomes, analysis of transcription factor binding and motifs, detecting genome variation, measuring expression of genes, and understanding genome evolution. I was a tutor for the course in Fall 2022 the corresponding spring semester, Quantitative Biology and Biophysics (`AS.020.674`), in 2023. 
+In Fall 2021, I was a Teaching Assistant for the Quantitative Biology (`AS.020.617`) course offered to first-year graduate students in the Cell, Molecular, Developmental Biology and Biophysics PhD program. Students develop their own implementations of widely-used computational biology tools (primarily using Python and Bash) for essential studies including assembly of genomes, analysis of transcription factor binding and motifs, detecting genome variation, measuring expression of genes, and understanding genome evolution. I was a tutor for the course in Fall 2022 & 2023, as well as the corresponding spring semester, Quantitative Biology and Biophysics (`AS.020.674`), in 2023 & 2024. 
 
 ### Developmental Genetics
 
