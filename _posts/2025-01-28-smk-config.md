@@ -117,10 +117,10 @@ rule analyze_summary_stats:
 ## Accessing values from the config file
 In the Snakemake rules above, you can see that we access values from the config.yaml file using the config object. For example:
 
-`config["input_data"]["genotype"]` provides the file path to the genotype data.
-`config["parameters"]["snp_subset_size"]` gives the SNP subset size for the GWAS analysis.
-`config["parameters"]["threads"]` specifies the number of threads to use for parallel processing.
-For the summary stats analysis, we access the file paths, types, and sample sizes (N) for each summary stat using `config["summary_stats"][0]["output"]`, `config["summary_stats"][0]["type"]`, `config["summary_stats"][0]["N"]`, and so on.
+- `config["input_data"]["genotype"]` provides the file path to the genotype data.
+- `config["parameters"]["snp_subset_size"]` gives the SNP subset size for the GWAS analysis.
+- `config["parameters"]["threads"]` specifies the number of threads to use for parallel processing.
+- For the summary stats analysis, we access the file paths, types, and sample sizes (N) for each summary stat using `config["summary_stats"][0]["output"]`, `config["summary_stats"][0]["type"]`, `config["summary_stats"][0]["N"]`, and so on.
 
 ## Using and troubleshooting the config file 
 Dry-running your snakemake pipeline (`-n`) will automatically check for values from your config file and flag any missing files or parameters, syntax errors, disagreements between the config and the snakemake file, etc. Like much of the feedback from snakemake (even when using `--verbose`!), the comments can be vague or cryptic. If you get any issues with your config file specifically, you can paste it into a lintr like [this one](https://www.yamllint.com/), which will alert you to any typographical problems. 
