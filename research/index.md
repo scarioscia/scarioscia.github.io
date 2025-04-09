@@ -2,7 +2,55 @@
 layout: post
 title: Research
 ---
+<style>
+    .main-container {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 30px;
+    }
 
+    .icon-container {
+        display: flex;
+        justify-content: center;
+        gap: 60px;
+        flex-wrap: wrap;
+    }
+
+    .icon {
+        flex: 1 1 300px; /* grow/shrink, min width 300px */
+        max-width: 350px;
+        text-align: left;
+    }
+
+    .icon img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+    }
+
+    .icon-title {
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    .icon-caption {
+        font-size: 14px;
+    }
+
+    /* Optional: Improve spacing on small screens */
+    @media (max-width: 768px) {
+        .icon-container {
+            gap: 40px;
+        }
+        .icon {
+            flex: 1 1 100%;
+            max-width: 90%;
+        }
+    }
+</style>
+
+
+<!-- 
 <style>
     .main-container {
         max-width: 2000%; /* Adjust maximum width as needed */
@@ -43,7 +91,7 @@ title: Research
     .icon-title {
         font-weight: bold;
     }
-</style>
+</style> -->
 
 <div class="icon-container">
     <div class="icon">
