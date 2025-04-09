@@ -13,7 +13,7 @@ title: Research
     .icon-container {
         display: grid;
         grid-template-columns: repeat(3, 1fr); /* Three columns */
-        grid-template-rows: auto auto; /* Two rows */
+        /*grid-template-rows: auto auto; /* Two rows */*/
         column-gap: 100px;
         row-gap: 75px; /* Adjust the space between rows */
         max-width: 800px; /* Adjust maximum width as needed */
@@ -56,6 +56,13 @@ title: Research
     </div>
     <div class="icon">
         <a href="../research_projects/#project3">
+            <img src="../images/research_images/rhapsodi_schematic.jpg" alt="rhapsodi">
+        </a>
+        <div class="icon-title">R package for imputing sparsely-sequenced haploid gametes</div>
+        <div class="icon-caption"> Using very low-coverage single-cell DNA sequencing data of gametes originating from a single diploid donor, rhapsodi (1) phases the diploid donor haplotypes, (2) imputes missing gamete genotypes, and (3) discovers gamete-specific meiotic recombination events. I applied this method to >40,000 of single-cell sperm DNA from 25 donors to investigate signatures of transmission distortion.</div>
+    </div>
+    <!-- <div class="icon">
+        <a href="../research_projects/#project3">
             <img src="../images/research_images/td_pipeline_schematic.jpg" alt="Transmission Distortion">
         </a>
         <div class="icon-title">Transmission distortion in human sperm</div>
@@ -74,5 +81,5 @@ title: Research
         </a>
         <div class="icon-title">Exploring science policy at the intersection of research and government</div>
         <div class="icon-caption">Prior to graduate school, I worked as a Science Policy Fellow, engaging in projects including evaluating NASA's Mars mission roadmap, assessing supersonic commercial aircraft feasibility, and reviewing laws governing space technology exports.</div>
-    </div>
+    </div> -->
 </div>
