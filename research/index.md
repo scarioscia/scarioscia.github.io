@@ -4,21 +4,21 @@ title: Research
 ---
 <style>
     .main-container {
-        max-width: 1400px;
+        max-width: 900px; /* Overall content max width */
         margin: 0 auto;
         padding: 30px;
     }
 
     .icon-container {
         display: flex;
-        justify-content: center;
-        gap: 60px;
-        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        gap: 60px; /* Space between icons */
     }
 
     .icon {
-        flex: 1 1 300px; /* grow/shrink, min width 300px */
-        max-width: 350px;
+        width: 100%;
+        max-width: 500px; /* Prevent icons from getting too wide */
         text-align: left;
     }
 
@@ -37,13 +37,8 @@ title: Research
         font-size: 14px;
     }
 
-    /* Optional: Improve spacing on small screens */
-    @media (max-width: 768px) {
-        .icon-container {
-            gap: 40px;
-        }
+    @media (max-width: 600px) {
         .icon {
-            flex: 1 1 100%;
             max-width: 90%;
         }
     }
