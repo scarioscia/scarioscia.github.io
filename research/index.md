@@ -14,7 +14,7 @@ title: Research
         display: grid;
         grid-template-columns: repeat(3, 1fr); /* Three columns */
         /*grid-template-rows: auto auto; /* Two rows */*/
-        column-gap: 1500px;
+        column-gap: 3000px;
         row-gap: 75px; /* Adjust the space between rows */
         max-width: 800px; /* Adjust maximum width as needed */
         margin: 0 auto; /* Center the container */
