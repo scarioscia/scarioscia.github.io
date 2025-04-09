@@ -12,7 +12,7 @@ title: Research
 
     .icon-container {
         display: grid;
-        grid-template-columns: repeat(3, 1fr); /* Three columns */
+        /*grid-template-columns: repeat(3, 1fr); /* Three columns */*/
         /*grid-template-rows: auto auto; /* Two rows */*/
         column-gap: 3000px;
         row-gap: 75px; /* Adjust the space between rows */
