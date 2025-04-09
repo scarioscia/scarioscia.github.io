@@ -49,7 +49,7 @@ title: Research
     </div>
     <div class="icon">
         <a href="../research_projects/#project2">
-            <img src="../images/research_images/embryo_abc.jpg" alt="Embryo Modeling">
+            <img src="../images/research_images/embryo_abc.png" alt="Embryo Modeling">
         </a>
         <div class="icon-title">Estimating rates of meiotic and mitotic error in human development</div>
         <div class="icon-caption">Using published clinical data from PGT-A, we identify possible ranges of meiotic and mitotic error rates that best explain ratios of euploid, mosaic, and aneuploid embryos.</div>

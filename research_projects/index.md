@@ -27,7 +27,7 @@ title: Research
     <p> As a result, these data also do not offer adequate foundation to estimate the rates of meiotic and mitotic error actually occurring in human development. Here, we conduct simulations across a range of each error rate, simulate biopsies, and use approximate Bayesian computation to identify the set of simulated embryos that most matches clinical data. The results offer us ranges of these error rates that best explain the clinical data observed through PGT-A.</p>
     <p> This project began during the rotation of Matthew Isada, a PhD student in the Biology Department at JHU who I mentored in 2022. I then mentored undergraduate Angela Yang as she scaled up our initial 2D and 3D simulations of embryo development and biopsy to investigate a range of errors across numerous replicates.</p>
     <p> This work is available as a <a href="https://www.medrxiv.org/content/10.1101/2025.04.02.25325097v1">preprint</a> in bioRxiv, where we estimate the true incidence of mosaicism at the day-5 stage and investigate a range of misclassification parameters to offer a robust analysis of lcinical data.</p>
-    <p>{% include image.html url="../images/research_images/embryo_abc.jpg" height="250px" align="center" %}</p>
+    <p>{% include image.html url="../images/research_images/embryo_abc.png" height="250px" align="center" %}</p>
 </div>
 
 
