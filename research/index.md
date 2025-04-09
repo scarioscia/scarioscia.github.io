@@ -12,21 +12,22 @@ title: Research
 
     .icon-container {
         display: grid;
-        grid-template-columns: repeat(2, 1fr); /* Two columns */
-        grid-auto-rows: auto;
-        column-gap: 50px; /* Space between columns */
-        row-gap: 75px; /* Space between rows */
-        max-width: 800px;
+        grid-template-rows: auto auto;
+        row-gap: 75px;
+        justify-items: center;
+        max-width: 900px;
         margin: 0 auto;
     }
 
-    .icon-container > .icon:nth-child(3) {
-        grid-column: 1 / span 2; /* Span both columns */
-        justify-self: center;    /* Center horizontally */
+    .icon-row {
+        display: flex;
+        justify-content: center;
+        gap: 100px; /* Space between icons */
     }
 
     .icon {
-        text-align: left;
+        max-width: 250px;
+        text-align: center;
     }
 
     .icon img {
