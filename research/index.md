@@ -27,7 +27,7 @@ title: Research
 
     .icon {
         max-width: 250px;
-        text-align: center;
+        text-align: left;
     }
 
     .icon img {
