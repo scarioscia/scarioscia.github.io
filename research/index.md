@@ -12,7 +12,8 @@ title: Research
 
     .icon-container {
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr); /* Three columns */
+        grid-template-rows: auto auto; /* Two rows */
         column-gap: 100px;
         row-gap: 75px; /* Adjust the space between rows */
         max-width: 800px; /* Adjust maximum width as needed */
@@ -41,27 +42,34 @@ title: Research
 <div class="icon-container">
     <div class="icon">
         <a href="../research_projects/#project1">
-            <img src="../images/research_images/embryo_arrest.jpg" alt="">
+            <img src="../images/research_images/aneuploidy_manhattan.jpg" alt="Aneuploidy GWAS">
         </a>
-        <div class="icon-title">Quantifying aneuploidy in human IVF embryos</div>
-        <div class="icon-caption">Aneuploidy is the largest contributor to pregnancy loss. I am investigating patterns of these whole-chromosome gains and losses across a sample of day-5 IVF embryos.</div>
+        <div class="icon-title">Genetic associations with meiotic aneuploidy in day-5 embryos</div>
+        <div class="icon-caption">Aneuploidy is the largest contributor to pregnancy loss. Here I identify genetic associations with aneuploidy incidence across a sample of day-5 IVF embryos.</div>
     </div>
     <div class="icon">
         <a href="../research_projects/#project2">
+            <img src="../images/research_images/embryo_abc.jpg" alt="Embryo Modeling">
+        </a>
+        <div class="icon-title">Estimating rates of meiotic and mitotic error in human development</div>
+        <div class="icon-caption">Using published clinical data from PGT-A, we identify possible ranges of meiotic and mitotic error rates that best explain ratios of euploid, mosaic, and aneuploid embryos.</div>
+    </div>
+    <div class="icon">
+        <a href="../research_projects/#project3">
             <img src="../images/research_images/td_pipeline_schematic.jpg" alt="Transmission Distortion">
         </a>
         <div class="icon-title">Transmission distortion in human sperm</div>
         <div class="icon-caption">Biased transmission of alleles among gametes has been identified in many species. I searched for such bias in a large sample (>40,000) of single-cell sperm DNA from 25 donors.</div>
     </div>
     <div class="icon">
-        <a href="../research_projects/#project3">
+        <a href="../research_projects/#project4">
             <img src="../images/research_images/rhapsodi_schematic.jpg" alt="rhapsodi">
         </a>
         <div class="icon-title">R package for imputing sparsely-sequenced haploid gametes</div>
         <div class="icon-caption"> Using very low-coverage single-cell DNA sequencing data of gametes originating from a single diploid donor, rhapsodi (1) phases the diploid donor haplotypes, (2) imputes missing gamete genotypes, and (3) discovers gamete-specific meiotic recombination events.</div>
     </div>
     <div class="icon">
-        <a href="../research_projects/#project4">
+        <a href="../research_projects/#project5">
             <img src="../images/research_images/SSA.png" alt="Science Policy">
         </a>
         <div class="icon-title">Exploring science policy at the intersection of research and government</div>
