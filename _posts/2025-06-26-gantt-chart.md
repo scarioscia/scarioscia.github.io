@@ -56,14 +56,14 @@ gantt_table <- data.frame(
 )
 ```
 
-You then create a `ganttrify object`, which offers some options for customization - but further details can be adjusted in plotting. You can also turn off month numbers or month names here: 
+You then create a `ganttrify object`, which offers some options for customization - but further details can be adjusted in plotting. You can also turn off month numbers or month names here. For a cleaner view, you can change `hide_wp` to `TRUE`, which will remove the theme-level headers.
 ```
 library(ganttrify)
 
 p <- ganttrify(
   project = gantt_table,
   by_date = TRUE,
-  hide_wp = TRUE,
+  hide_wp = FALSE,
   project_start_date = min(gantt_table$start_date),
   month_number_label = FALSE,  # turn off default month numbers
   month_date_label = FALSE     # turn off month names
@@ -90,5 +90,10 @@ p + scale_x_date(
   position = "top"
 )
 ```
+
+<figure class="figure">
+  <img src="../images/blog_images/gantt_chart.png" alt="">
+  <figcaption class="figcaption">The gantt chart, using mostly default settings.</figcaption>
+</figure><br>
 
 In this case I added arrows from each intermediate product to its next step (e.g., data generation 1 to data analysis 1) in Affinity Designer, but maybe with some effort it could be overlaid in `ggplot2` directly. A challenge maybe for another time! 
