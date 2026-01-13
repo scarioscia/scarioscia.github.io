@@ -2,7 +2,7 @@
 layout: about
 ---
 
-I completed my PhD in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University, supported by a [National Science Foundation Graduate Research Fellowship](https://nsfgrfp.org/) and advised by [Rajiv McCoy](https://mccoy-lab.org/). My work focuses on applying computational and statistical methods to large-scale human genomic data. My dissertation work examined how errors and biases in chromosome segregation arise during human development and how they impact genetic transmission and fertility. This research combined population genetics, statistical modeling, and analysis of IVF embryo sequencing data. Additional details are available on my research page.
+I completed my PhD in the [Cell, Molecular, Developmental Biology, and Biophysics](https://cmdb.jhu.edu/) (CMDB) program at Johns Hopkins University, supported by a [National Science Foundation Graduate Research Fellowship](https://nsfgrfp.org/) and advised by [Rajiv McCoy](https://mccoy-lab.org/). My work focuses on applying computational and statistical methods to large-scale human genomic data. My dissertation examined how errors and biases in chromosome segregation arise during human development and how they impact genetic transmission and fertility. This research combined population genetics, statistical modeling, and analysis of IVF embryo sequencing data. Additional details are available on my research page.
 
 I am currently a Data Scientist at [Valo Health](https://valohealth.com/), where I work with complex biomedical datasets to support target discovery and drug development.
 
