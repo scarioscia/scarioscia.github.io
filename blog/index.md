@@ -2,21 +2,23 @@
 layout: post
 title: Blog
 ---
-
 {% assign year = "" %}
 
-<ul class="listing">
 {% for post in site.posts %}
-  {% capture y %}{{ post.date | date:"%Y" }}{% endcapture %}
+  {% capture y %}{{ post.date | date: "%Y" }}{% endcapture %}
+
   {% if year != y %}
+    {% if year != "" %}
+      </ul>
+    {% endif %}
     {% assign year = y %}
-    </ul>
     <h2 class="listing-year">{{ y }}</h2>
     <ul class="listing">
   {% endif %}
+
   <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">
-      {{ post.date | date:"%Y-%m-%d" }}
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
+      {{ post.date | date: "%Y-%m-%d" }}
     </time>
     <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">
       {{ post.title }}
