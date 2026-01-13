@@ -8,13 +8,13 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 author:
   name: Sara Carioscia
   desc:
-  email: saracarioscia[at]jhu[dot]edu
+  email: saracarioscia[at]gmail[dot]com
   selfie: assets/img/profile_pic.jpg
 
 # social
 social:
   email: true
-  twitter: saracarioscia
+  twitter:
   behance:
   bitbucket:
   dribbble:
