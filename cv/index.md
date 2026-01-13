@@ -11,7 +11,7 @@ You can download my current resume **[here](https://github.com/scarioscia/scario
   }
 </style>
 
-# Resume
+## Resume
 <!-- Resume -->
 <section class="bg-light page-section" id="cv">
   <div class="container">
@@ -35,7 +35,7 @@ You can download my current resume **[here](https://github.com/scarioscia/scario
 </section>
 <!-- End resume -->
 
-# CV
+## CV
 <!-- CV -->
 <section class="bg-light page-section" id="cv">
   <div class="container">
